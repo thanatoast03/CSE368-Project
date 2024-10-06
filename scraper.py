@@ -4,6 +4,8 @@ from urllib.parse import urlparse
 import urllib.robotparser as robotparser
 import time, random
 
+CATALOGSURL = "https://catalogs.buffalo.edu/content.php?catoid=1&navoid=85&utm_source=academics-areasofstudy-page&utm_medium=redirect&utm_term=2023-10-20"
+
 def is_allowed_to_scrape(url, user_agent='*'):
     # Parse the domain to get the base URL for robots.txt
     parsed_url = urlparse(url)
@@ -17,7 +19,7 @@ def is_allowed_to_scrape(url, user_agent='*'):
     # Check if the URL is allowed
     return rp.can_fetch(user_agent, url)
 
-def scrape_website(url):
+def get_websites(url):
     if is_allowed_to_scrape(url):
         try:
             response = requests.get(url)
@@ -28,7 +30,7 @@ def scrape_website(url):
             # Example: Extract all text from <a> tags with class 'block_content_outer'
             elements = soup.find_all('a')
 
-            with open('sitesToParse.txt', 'w') as file:
+            with open('sites.txt', 'w') as file:
                 # Iterate through the elements and print text with hyperlinks
                 for element in elements:
                     href = element.get('href')
@@ -41,18 +43,15 @@ def scrape_website(url):
     else:
         print(f"Scraping not allowed for {url}")
 
-# List of websites to scrape
-urls = [
-    "https://catalogs.buffalo.edu/content.php?catoid=1&navoid=85&utm_source=academics-areasofstudy-page&utm_medium=redirect&utm_term=2023-10-20"
-]
+# Get the list of URLs
+get_websites(CATALOGSURL)
 
-# Loop through the list of URLs
-for url in urls:
-    scrape_website(url)
+def getDataPerMajor():
+    with open("sites.txt", "r") as file:
+        for line in file:
+            # Prints each link
+            print(line.strip())
 
-    #! UB please don't kick me out
-    # Fixed delay
-    time.sleep(1)  # Wait for 1 second between requests
+            #TODO: scrape from each link to get descriptions of each class and stuff
 
-    # Randomized delay (between 1 and 3 seconds)
-    time.sleep(random.uniform(1, 3))
+getDataPerMajor()
