@@ -78,7 +78,7 @@ def scrapePerSite(url):
                     classes = classList.find_all('div', class_="acalog-core")
                     for importance in classes:
                         title = importance.find('h3') if importance.find('h3') else importance.find('h4')
-                        file.write(f"\n\n{title.text}")
+                        file.write(f"\n\n{title.text}\n")
 
                         # ACTUALLY get the courses this time
                         #find if classes exist in this text block
