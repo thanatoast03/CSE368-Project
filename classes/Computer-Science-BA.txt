@@ -11,7 +11,8 @@ Fast-Track: Completion of at least two of the four core courses (graded on an A-
 Important Classes:
 
 
-Computer Science Core (30 credits)CSE 115LLR - Introduction to Computer Science I Credits: 4 *
+Computer Science Core (30 credits)
+CSE 115LLR - Introduction to Computer Science I Credits: 4 *
 CSE 116LLB - Introduction to Computer Science II Credits: 4
 CSE 191LR - Introduction to Discrete Structures Credits: 4
 CSE 199SR - UB Seminar Credits: 3 (OR any UBS 199)
@@ -21,7 +22,8 @@ CSE 341LR - Computer Organization Credits: 4
 EAS 360LEC - STEM Communications Credits: 3
 
 
-One sequence from the following (8 credits): MTH 121LR - Survey of Calculus and Its Applications I Credits: 4 AND
+One sequence from the following (8 credits): 
+MTH 121LR - Survey of Calculus and Its Applications I Credits: 4 AND
 MTH 122LR - Survey of Calculus and Its Applications II Credits: 4
  
 MTH 131LR - Mathematical Analysis for Management Credits: 4 AND 100-level technical elective 
@@ -30,7 +32,8 @@ MTH 141LR - College Calculus I Credits: 4 AND
 MTH 142LR - College Calculus 2 Credits: 4
 
 
-One probability/statistics course (3-4 credits):STA 119LEC - Statistical Methods Credits: 3 AND
+One probability/statistics course (3-4 credits):
+STA 119LEC - Statistical Methods Credits: 3 AND
 STA 119REC - Statistical Methods Credits: 1
  
 STA 301LEC - Intro to Probability Credits: 3 AND
@@ -45,13 +48,18 @@ Other probability/statistics courses may be subject to approval upon request
 
 Six CSE 300/400 Level Courses (21-24 credits)
 
+
 One 300/400 LAS course (3 credits)
+
 
 Five External Concentration Electives (15 credits)
 
+
 Total Credits Required for Major: 80-84
 
-First Year FallUB Seminar Credits: 3
+
+First Year Fall
+UB Seminar Credits: 3
 CSE 115LLR - Introduction to Computer Science I Credits: 4
  
 MTH 121LR - Survey of Calculus and Its Applications I Credits: 4 OR
@@ -63,7 +71,9 @@ ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
 
 Total Credits: 14 or 15
 
-First Year SpringCSE 116LLB - Introduction to Computer Science II Credits: 4
+
+First Year Spring
+CSE 116LLB - Introduction to Computer Science II Credits: 4
 CSE 191LR - Introduction to Discrete Structures Credits: 4
  
 MTH 122LR - Survey of Calculus and Its Applications II Credits: 4 OR
@@ -75,7 +85,9 @@ ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
 
 Total Credits: 15 or 16
 
-Second Year FallCSE 220LLB - Systems Programming Credits: 4
+
+Second Year Fall
+CSE 220LLB - Systems Programming Credits: 4
 CSE 250LR - Data Structures Credits: 4
 Scientific Literacy and Inquiry 1 Credits: 3
 Scientific Literacy and Inquiry Lab Credits: 1
@@ -84,7 +96,9 @@ Pathway Credits: 3
 
 Total Credits: 15
 
-Second Year SpringCSE 341LR - Computer Organization Credits: 4
+
+Second Year Spring
+CSE 341LR - Computer Organization Credits: 4
 Probability/Stats Elective Credits: 3
 Pathway Credits: 3
 Pathway Credits: 3
@@ -93,7 +107,9 @@ Scientific Literacy and Inquiry 2 Credits: 3
 
 Total Credits: 16
 
-Third Year FallLAS Elective Credits: 1
+
+Third Year Fall
+LAS Elective Credits: 1
 Pathway Credits: 3
 CSE 300 OR 400 Level Elective Credits: 3
 External Concentration 1 (200-Level above) Credits: 4
@@ -102,7 +118,9 @@ EAS 360LEC - STEM Communications Credits: 3 or Equivalent
 
 Total Credits: 14
 
-Third Year SpringPathway Credits: 3
+
+Third Year Spring
+Pathway Credits: 3
 CSE 300 OR 400 Level Elective Credits: 3
 CSE 300 OR 400 Level Elective Credits: 3
 External Concentration 2 (200-Level above) Credits: 4 
@@ -110,7 +128,9 @@ External Concentration 2 (200-Level above) Credits: 4 
 
 Total Credits: 13
 
-Fourth Year FallCSE 300 OR 400 Level Elective Credits: 4
+
+Fourth Year Fall
+CSE 300 OR 400 Level Elective Credits: 4
 External Concentration 3 (300 above) Credits: 3
 External Concentration 4 (300 above) Credits: 3
 LAS 300 or 400 Level Credits: 4
@@ -119,7 +139,9 @@ UBC 399MNT - UB Curriculum Capstone Credits: 1
 
 Total Credits: 15
 
-Fourth Year SpringCSE 300 OR 400 Level Elective Credits: 3
+
+Fourth Year Spring
+CSE 300 OR 400 Level Elective Credits: 3
 CSE 300 OR 400 Level Elective Credits: 4
 External Concentration 5 (300 above) Credits: 3
 LAS Elective Credits: 4
@@ -127,5 +149,6 @@ LAS Elective Credits: 3
 
 
 Total Credits: 17
+
 
 Total Credits Required: 120
