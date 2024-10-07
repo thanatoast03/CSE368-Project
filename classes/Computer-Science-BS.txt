@@ -7,3 +7,199 @@ Standard: Completion of four core courses with a combined core course grade poin
 Fast-Track: Completion of at least two of the four core courses (graded on an A-F bases) with a combined core course grade point average of at least 3.000.
 
 
+
+Important Classes:
+
+
+Computer Science Core (53-54 credits)CSE 115LLR - Introduction to Computer Science I Credits: 4 *
+CSE 116LLB - Introduction to Computer Science II Credits: 4
+CSE 191LR - Introduction to Discrete Structures Credits: 4
+CSE 199SR - UB Seminar Credits: 3
+CSE 220LLB - Systems Programming Credits: 4
+CSE 250LR - Data Structures Credits: 4
+CSE 305LR - Introduction to Programming Languages Credits: 4
+CSE 331LR - Algorithms and Complexity Credits: 4
+CSE 341LR - Computer Organization Credits: 4
+EAS 360LEC - STEM Communications Credits: 3
+MTH 141LR - College Calculus I Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+MTH 309LR - Introductory Linear Algebra Credits: 4
+ 
+Capstone Requirement (select one):
+CSE 402LEC - Experiential Learning/Research Capstone Credits: 3
+CSE 442LR - Software Engineering Credits: 4
+CSE 443LR - Compilers Credits: 4
+CSE 494SEM - Senior Capstone/Seminar Credits: 3
+
+
+One calculus-based probability or statistics course (4 credits)EAS 305LR - Applied Probability and Statistics Credits: 4
+MTH 411LR - Probability Theory Credits: 4
+ 
+STA 301LEC - Intro to Probability Credits: 3 AND
+STA 301REC - Intro to Probability Credits: 1
+
+
+Six CSE Electives (18-24 credits)
+
+Theory Area Courses:CSE 396LR - Introduction to the Theory of Computation Credits: 4
+CSE 429LEC - Algorithms for Modern Computing Systems Credits: 3
+CSE 430LEC - Topics in Theoretical Computer Science Credits: 3
+CSE 431LEC - Algorithms Analysis and Design Credits: 3
+CSE 432LEC - Randomized Algorithms Analysis and Design Credits: 3
+CSE 439LEC - Quantum Computation through Linear Algebra Credits: 3
+CSE 445LEC - Coding Theory Credits: 3
+CSE 491LEC - Introduction to the Theory of Computation Credits: 3
+
+
+Hardware Systems and Networking Area Courses:CSE 379LLB - Introduction to Microprocessors Credits: 4
+CSE 450LEC - Hardware/Software Integrated Systems Design I Credits: 3
+CSE 453LEC - Hardware/Software Integrated Systems Design 2 Credits: 3
+CSE 454LEC - Applied Computational Intelligence Credits: 3
+CSE 486LEC - Distributed Systems Credits: 3
+CSE 489LEC - Modern Networking Concepts Credits: 3
+CSE 490LEC - Computer Architecture Credits: 3
+CSE 493LLB - Introduction to VLSI Electronics Credits: 4
+
+
+Artificial Intelligence Area Courses:CSE 368LR - Introduction to Artificial Intelligence Credits: 4
+CSE 428LEC - Introduction to Digital Image Processing Credits: 3
+CSE 440LEC - Machine Learning and Society for Majors Credits: 3
+CSE 446LEC - Reinforcement Learning Credits: 3
+CSE 455LEC - Introduction to Pattern Recognition Credits: 3
+CSE 463LEC - Knowledge Representation Credits: 3
+CSE 467LEC - Computational Linguistics Credits: 3
+CSE 468LEC - Robotics Algorithms Credits: 3
+CSE 469LEC - Introduction to Data Mining Credits: 3
+CSE 473LEC - Introduction to Computer Vision and Image Processing Credits: 3
+CSE 474LEC - Introduction to Machine Learning Credits: 3
+
+
+Software Systems Area Courses:CSE 306LLB - Software Quality in Practice Credits: 4
+CSE 312LR - Introduction to Web Applications Credits: 4
+CSE 321LR - Real -Time and Embedded Operating Systems Credits: 4
+CSE 365LR - Introduction to Computer Security Credits: 4
+CSE 370LR - Applied Human Computer Interaction and Interface Design Credits: 4
+CSE 404LR - Software Project Management Credits: 3
+CSE 409LEC - Advanced Blockchain Concepts Credits: 3
+CSE 411LEC - Introduction to Computer Systems Administration Credits: 3
+CSE 421LEC - Introduction to Operating Systems Credits: 3
+CSE 426LEC - Blockchain Application Development Credits: 3
+CSE 427LEC - Systems Security Credits: 3
+CSE 435LEC - Information Retrieval Credits: 3
+CSE 460LEC - Data Models and Query Languages Credits: 3
+CSE 462LEC - Database Systems Credits: 3
+CSE 470LEC - Introduction to Parallel and Distributed Processing Credits: 3
+CSE 487LEC - Data Intensive Computing Credits: 3
+
+
+Experiential Learning and Research Area Courses:CSE 302LR - Intro to Experiential Learning/Research Credits: 3
+CSE 303LEC - Intermediate Experiential Learning/Research Credits: 3
+
+
+Science Sequence (7-9 credits)BIO 200LLB - Evolutionary Biology Credits: 5
+CHE 101LR - General Chemistry Credits: 4
+CHE 102LR - General Chemistry Credits: 4
+CHE 105LLR - Chemistry: Principles and Applications Credits: 5
+CHE 106LLR - Chemistry: Principles and Applications Credits: 5
+CHE 107LR - General Chemistry for Engineers I Credits: 3.5
+CHE 108LR - General Chemistry for Engineers II Credits: 3.5
+CHE 113LAB - General Chemistry Credits: 1
+CHE 114LAB - General Chemistry Credits: 1
+CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5
+CHE 128LAB - General Chemistry for Engineers Laboratory 2 Credits: 0.5
+GLY 101LEC - Natural Hazards Credits: 3
+GLY 102LEC - Climate Change Credits: 3
+GLY 103LEC - Geology for Engineers Credits: 3
+GLY 104LAB - Earth History & Fossils Lab Credits: 1
+GLY 105LAB - Natural Hazards and Climate Change:Past, Present, Future Credits: 1
+PHY 107LR - General Physics I Credits: 4
+PHY 108LR - General Physics II Credits: 4
+PHY 117LR - Honors Physics I Credits: 4
+PHY 118LR - Honors Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1 ***
+
+
+One Additional Math or Science course (3 credits):Any 200-level or higher MTH or STA course (excludes MTH 411 , STA 301 , STA 301 , and MTH 495 -MTH 499 / STA 495-STA 499 ); OR
+Any 200- level or higher (excluding 495-499) course in BIO, CHE, GLY or PHY; OR
+Any course in an approved UB Curriculum Scientific Literacy sequence
+
+
+Notes
+
+Total Credits Required for Major: 85-94
+
+Additional Degree Requirements Include:Additional coursework to fulfill UB Curriculum requirements
+Elective courses as needed to complete the 120 credit hour total
+
+
+Total Credits Required for Graduation: 120
+
+First Year FallCSE 199SR - UB Seminar Credits: 3
+CSE 115LLR - Introduction to Computer Science I Credits: 4
+MTH 141LR - College Calculus I Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+
+
+Total Credits: 14 or 15
+
+First Year SpringCSE 116LLB - Introduction to Computer Science II Credits: 4
+CSE 191LR - Introduction to Discrete Structures Credits: 4
+MTH 142LR - College Calculus 2 Credits: 4
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
+
+
+Total Credits: 15 or 16
+
+Second Year FallCSE 220LLB - Systems Programming Credits: 4
+CSE 250LR - Data Structures Credits: 4
+Scientific Literacy Inquiry 1 Credits: 3
+Pathway Credits: 3
+
+
+Total Credits: 14
+
+Second Year SpringCSE 341LR - Computer Organization Credits: 4
+CSE 331LR - Algorithms and Complexity Credits: 4
+Pathway Credits: 3
+Pathway Credits: 3
+Scientific Literacy and Inquiry 2 Credits: 3
+​Scientific Literacy and Inquiry Lab Credits: 1
+
+
+Total Credits: 18
+
+Third Year FallCSE 305LR - Introduction to Programming Languages Credits: 4
+MTH 309LR - Introductory Linear Algebra Credits: 4
+Probability/Statistics Course Credits: 4
+Topic Area 1 Credits: 3
+Pathway Credits: 3
+
+
+Total Credits: 17
+
+Third Year SpringEAS 360LEC - STEM Communications Credits: 3
+Topic Area 2 Credits: 3
+Topic Area 3 Credits: 3
+CSE 300 or 400 Technical Elective Credits: 3
+Pathway Course Credits: 3
+
+
+Total Credits: 15
+
+Fourth Year FallSpecialization 1 Credits: 3
+Math or Science Elective Credits: 3
+Capstone Requirement Credits: 3-4
+Elective Credits: 3 
+
+
+Total Credits: 13-14
+
+Fourth Year SpringSpecialization 2 Credits: 4
+Elective Credits: 3
+Elective Credits: 3
+Elective Credits: 3
+
+
+Total Credits: 13 
+
+Total Credits Required: 120
