@@ -1,0 +1,23 @@
+version: '3'
+services:
+  mongo:
+    image: mongo:5.0
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    environment:
+      WAIT_HOSTS: mongo:27017
+    ports:
+      - '5000:5000'
+
+  frontend:
+    build:
+      context: .
+      dockerfile: reactjs/Dockerfile
+    ports:
+      - '5173:5173'
+    depends_on:
+      - backend
+
