@@ -1,19 +1,15 @@
 FROM python:3.12
 
-ENV HOME /root
-
-WORKDIR /root
+WORKDIR /app
 
 COPY requirements.txt .
 
 RUN pip install --no-cache-dir -r requirements.txt
 
-COPY .. .
+COPY . .
 
 EXPOSE 5000
 
-ADD https://github.com/ufoscout/docker-compose-wait/releases/download/2.2.1/wait /wait
-RUN chmod +x /wait
+CMD ["python", "server.py"]
 
-CMD /wait && python3 -u server.py --host 0.0.0.0 --port 5000
 

@@ -1,10 +1,12 @@
 from flask import Flask, request, make_response, jsonify, redirect, url_for
 from pymongo import MongoClient
+from flask_cors import CORS
 import bcrypt
 import secrets
 import hashlib
 
 app = Flask(__name__)
+CORS(app, origins=["http://localhost:5173"])
 
 mongo_client = MongoClient("mongo")
 db = mongo_client["CSE368"]
