@@ -14,12 +14,12 @@ const Register = () => {
       headers: {
         'Content-Type': 'application/json',
       },
+      credentials: 'include', // Include cookies
       body: JSON.stringify({ username, password, confirm_password: confirmPassword, email }),
     });
 
     if (response.ok) {
-      // Redirect to homepage on successful registration
-      window.location.href = '/'; // Redirect to homepage
+      window.location.href = '/login';
     } else {
       const data = await response.json();
       alert(data.error || 'Registration failed');

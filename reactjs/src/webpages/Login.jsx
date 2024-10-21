@@ -12,12 +12,13 @@ const Login = () => {
       headers: {
         'Content-Type': 'application/json',
       },
+      credentials: 'include', // Include cookies
       body: JSON.stringify({ username, password }),
     });
 
     if (response.ok) {
       // Redirect to homepage on successful login
-      window.location.href = '/'; // Redirect to homepage
+      window.location.href = '/chat'; // Redirect to chat page
     } else {
       const data = await response.json();
       alert(data.error || 'Login failed');
