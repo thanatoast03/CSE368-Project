@@ -1,5 +1,6 @@
 import React from 'react';
 import { useNavigate } from 'react-router-dom';
+import "./home.css";
 
 const Home = () => {
   const navigate = useNavigate();
@@ -13,10 +14,17 @@ const Home = () => {
   };
 
   return (
-    <div>
-      <h1>Welcome to the Homepage</h1>
-      <button onClick={handleRegister}>Register</button>
-      <button onClick={handleLogin}>Login</button>
+    <div className="homeContainer">
+      <div className="greeting">
+        <h1>Welcome to the Homepage</h1>
+      </div>
+      <div className="buttonContainer">
+        <button onClick={handleRegister}>Register</button>
+        <button onClick={handleLogin}>Login</button>
+      </div>
+      <div>
+        <p></p>
+      </div>
     </div>
   );
 };
