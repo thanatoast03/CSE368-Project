@@ -5,6 +5,7 @@ import Navbar from "../navbar.jsx";
 const Login = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
+  const [status, setStatus] = useState('');
 
   const handleSubmit = async (e) => {
     e.preventDefault();
@@ -22,7 +23,7 @@ const Login = () => {
       window.location.href = '/'; // Redirect to homepage
     } else {
       const data = await response.json();
-      alert(data.error || 'Login failed');
+      setStatus(data.error);
     }
   };
 
@@ -46,6 +47,7 @@ const Login = () => {
           required
         />
         <button onClick={handleSubmit}>Login</button>
+        <p>{status}</p>
       </div>
     </div>
   );

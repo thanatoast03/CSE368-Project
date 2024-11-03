@@ -37,6 +37,11 @@
     color: white;
 }
 
+.loginForm p {
+    margin-top: 5%;
+    color: white;
+}
+
 .loginForm {
     background-color: #1a1d25;
     width: 32vh;
