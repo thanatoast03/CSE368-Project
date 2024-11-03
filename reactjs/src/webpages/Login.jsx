@@ -7,7 +7,7 @@ const Login = () => {
   const [password, setPassword] = useState('');
   const [status, setStatus] = useState('');
 
-  const handleSubmit = async (e) => {
+  const handleLogin = async (e) => {
     e.preventDefault();
 
     const response = await fetch('http://localhost:5001/login', {
@@ -46,7 +46,7 @@ const Login = () => {
           placeholder="Password"
           required
         />
-        <button onClick={handleSubmit}>Login</button>
+        <button onClick={handleLogin}>Login</button>
         <p>{status}</p>
       </div>
     </div>

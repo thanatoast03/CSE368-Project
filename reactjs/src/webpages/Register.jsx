@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import Navbar from '../navbar';
+import './register.css';
 
 const Register = () => {
   const [username, setUsername] = useState('');
@@ -7,7 +9,7 @@ const Register = () => {
   const [email, setEmail] = useState('');
   const [status, setStatus] = useState('');
 
-  const handleSubmit = async (e) => {
+  const handleRegister = async (e) => {
     e.preventDefault();
 
     const response = await fetch('http://localhost:5001/register', {
@@ -23,42 +25,47 @@ const Register = () => {
       window.location.href = '/'; // Redirect to homepage
     } else {
       const data = await response.json();
-      alert(data.error || 'Registration failed');
+      setStatus(data.error);
     }
   };
 
   return (
-    <form onSubmit={handleSubmit}>
-      <input
-        type="text"
-        value={username}
-        onChange={(e) => setUsername(e.target.value)}
-        placeholder="Username"
-        required
-      />
-      <input
-        type="email"
-        value={email}
-        onChange={(e) => setEmail(e.target.value)}
-        placeholder="Email"
-        required
-      />
-      <input
-        type="password"
-        value={password}
-        onChange={(e) => setPassword(e.target.value)}
-        placeholder="Password"
-        required
-      />
-      <input
-        type="password"
-        value={confirmPassword}
-        onChange={(e) => setConfirmPassword(e.target.value)}
-        placeholder="Confirm Password"
-        required
-      />
-      <button type="submit">Register</button>
-    </form>
+    <div className="registerContainer">
+      <Navbar/>
+      <div className="registerForm">
+        <h1>Register</h1>
+        <input
+          type="text"
+          value={username}
+          onChange={(e) => setUsername(e.target.value)}
+          placeholder="Username"
+          required
+        />
+        <input
+          type="email"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          placeholder="Email"
+          required
+        />
+        <input
+          type="password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+          placeholder="Password"
+          required
+        />
+        <input
+          type="password"
+          value={confirmPassword}
+          onChange={(e) => setConfirmPassword(e.target.value)}
+          placeholder="Confirm Password"
+          required
+        />
+        <button onClick={handleRegister}>Register</button>
+        <p>{status}</p>
+      </div>
+    </div>
   );
 };
 
