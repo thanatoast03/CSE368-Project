@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import "./login.css";
+import Navbar from "../navbar.jsx";
 
 const Login = () => {
   const [username, setUsername] = useState('');
@@ -25,23 +27,27 @@ const Login = () => {
   };
 
   return (
-    <form onSubmit={handleSubmit}>
-      <input
-        type="text"
-        value={username}
-        onChange={(e) => setUsername(e.target.value)}
-        placeholder="Username"
-        required
-      />
-      <input
-        type="password"
-        value={password}
-        onChange={(e) => setPassword(e.target.value)}
-        placeholder="Password"
-        required
-      />
-      <button type="submit">Login</button>
-    </form>
+    <div className="loginContainer">
+      <Navbar/>
+      <div className="loginForm">
+        <h1>Login</h1>
+        <input
+          type="text"
+          value={username}
+          onChange={(e) => setUsername(e.target.value)}
+          placeholder="Username"
+          required
+        />
+        <input
+          type="password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+          placeholder="Password"
+          required
+        />
+        <button onClick={handleSubmit}>Login</button>
+      </div>
+    </div>
   );
 };
 
