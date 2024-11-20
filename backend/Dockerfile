@@ -8,6 +8,8 @@ RUN pip install --no-cache-dir -r requirements.txt
 
 COPY . .
 
+COPY classes/ ./classes/
+
 EXPOSE 5001
 
 CMD ["python", "server.py"]
