@@ -84,53 +84,55 @@ const Chat = () => {
     };
 
     return (
-        <div className="chat-container">
-            {/* Bot info card */}
-            <div className="bot-info-card">
-                <div className="bot-info-content">
-                    <div className="bot-details">
-                        <h2>Class Picker Helper Bot</h2>
-                        <p>{getRoleDescription()}</p>
-                    </div>
-                </div>
-            </div>
-        
-            {/* Chat messages */}
-            <div className="messages-area">
-                {messages.map((message, index) => (
-                    <div
-                        key={index}
-                        className={`message ${message.sender}`}
-                    >
-                        <div className="message-bubble">
-                            {message.text}
+        <div className='background'>
+            <div className="chat-container">
+                {/* Bot info card */}
+                <div className="bot-info-card">
+                    <div className="bot-info-content">
+                        <div className="bot-details">
+                            <h2>Class Picker Helper Bot</h2>
+                            <p>{getRoleDescription()}</p>
                         </div>
                     </div>
-                ))}
-                {isLoading && (
-                    <div className="loading-message">Coming up with a response</div>
-                )}
-                <div ref={messagesEndRef} />
+                </div>
+            
+                {/* Chat messages */}
+                <div className="messages-area">
+                    {messages.map((message, index) => (
+                        <div
+                            key={index}
+                            className={`message ${message.sender}`}
+                        >
+                            <div className="message-bubble">
+                                {message.text}
+                            </div>
+                        </div>
+                    ))}
+                    {isLoading && (
+                        <div className="loading-message">Coming up with a response</div>
+                    )}
+                    <div ref={messagesEndRef} />
+                </div>
+            
+                {/* Input form */}
+                <form onSubmit={handleSubmit} className="chat-input-form">
+                    <input
+                        type="text"
+                        value={input}
+                        onChange={(e) => setInput(e.target.value)}
+                        placeholder="Say something..."
+                        disabled={isLoading}
+                        className="chat-input"
+                    />
+                    <button
+                        type="submit"
+                        disabled={isLoading}
+                        className="chat-submit"
+                    >
+                    Send
+                    </button>
+                </form>
             </div>
-        
-            {/* Input form */}
-            <form onSubmit={handleSubmit} className="chat-input-form">
-                <input
-                    type="text"
-                    value={input}
-                    onChange={(e) => setInput(e.target.value)}
-                    placeholder="Say something..."
-                    disabled={isLoading}
-                    className="chat-input"
-                />
-                <button
-                    type="submit"
-                    disabled={isLoading}
-                    className="chat-submit"
-                >
-                Send
-                </button>
-            </form>
         </div>
     );
 }
