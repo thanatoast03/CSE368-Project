@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 import "./login.css";
 import Navbar from "../navbar.jsx";
 
@@ -6,6 +7,11 @@ const Login = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
   const [status, setStatus] = useState('');
+  const navigate = useNavigate();
+
+  const loggedIn = () => {
+    navigate("/loggedin");
+  }
 
   const handleLogin = async (e) => {
     e.preventDefault();
@@ -15,12 +21,14 @@ const Login = () => {
       headers: {
         'Content-Type': 'application/json',
       },
+      credentials: "include",
       body: JSON.stringify({ username, password }),
     });
 
     if (response.ok) {
       // Redirect to homepage on successful login
-      window.location.href = '/'; // Redirect to homepage
+      console.log("logged in");
+      loggedIn();
     } else {
       const data = await response.json();
       setStatus(data.error);

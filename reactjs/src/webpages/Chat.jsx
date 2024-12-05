@@ -123,6 +123,13 @@ const Chat = () => {
                         placeholder="Say something..."
                         disabled={isLoading}
                         className="chat-input"
+                        style={{
+                            backgroundColor: '#333',
+                            color: '#fff',
+                            border: '1px solid #555',
+                            padding: '10px',
+                            borderRadius: '4px'
+                        }}
                     />
                     <button
                         type="submit"
