@@ -16,7 +16,7 @@ data I sent you to list out classes only from the next semester based on ones th
 """
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:5173"])
+CORS(app, supports_credentials=True, origins=["http://localhost:5173"])
 
 mongo_client = MongoClient("mongo")
 db = mongo_client["CSE368"]
@@ -62,11 +62,10 @@ def login():
     if user and bcrypt.checkpw(password.encode(), user['password']):
         user_token = secrets.token_hex(15)
         hashed_token = hashlib.sha256(user_token.encode()).hexdigest()
-        xsrf_token = secrets.token_urlsafe(15)
 
-        user_collection.update_one({"username": username}, {"$set": {"authentication_token": hashed_token, "xsrf_token": xsrf_token}})
+        user_collection.update_one({"username": username}, {"$set": {"authentication_token": hashed_token}})
         response = make_response(jsonify(message="Login successful"))
-        response.set_cookie("user_token", user_token, httponly=True, max_age=3600)
+        response.set_cookie("user_token", user_token, httponly=False, max_age=3600, samesite=None, secure=False)
         return response
     return jsonify({"error": "Invalid username or password"}), 401
 
@@ -74,9 +73,9 @@ def login():
 def logout():
     user_token = request.cookies.get('user_token')
     if user_token:
-        user_collection.update_one({"authentication_token": hashlib.sha256(user_token.encode()).hexdigest()}, {"$unset": {"authentication_token": "", "xsrf_token": ""}})
+        user_collection.update_one({"authentication_token": hashlib.sha256(user_token.encode()).hexdigest()}, {"$unset": {"authentication_token": ""}})
         response = make_response(jsonify(message="Logged out successfully"))
-        response.set_cookie('user_token', '', expires=0, httponly=True)
+        response.set_cookie('user_token', '', expires=0, httponly=False, samesite=None, secure=False)
         return response
     return jsonify({"error": "No user token found"}), 400
 
