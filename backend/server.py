@@ -65,7 +65,7 @@ def login():
 
         user_collection.update_one({"username": username}, {"$set": {"authentication_token": hashed_token}})
         response = make_response(jsonify(message="Login successful"))
-        response.set_cookie("user_token", user_token, httponly=True, max_age=3600)
+        response.set_cookie("user_token", user_token, httponly=False, max_age=3600, samesite=None, secure=False)
         return response
     return jsonify({"error": "Invalid username or password"}), 401
 
@@ -75,7 +75,7 @@ def logout():
     if user_token:
         user_collection.update_one({"authentication_token": hashlib.sha256(user_token.encode()).hexdigest()}, {"$unset": {"authentication_token": ""}})
         response = make_response(jsonify(message="Logged out successfully"))
-        response.set_cookie('user_token', '', expires=0, httponly=True, samesite=None, secure=False)
+        response.set_cookie('user_token', '', expires=0, httponly=False, samesite=None, secure=False)
         return response
     return jsonify({"error": "No user token found"}), 400
 
