@@ -12,8 +12,15 @@ const Chat = () => {
         setIsLoading(true);
         try {
             const response = await fetch('http://localhost:5001/chatInitialize', {
-                method: 'GET'
+                method: 'GET',
+                credentials: 'include'
             });
+            const result = await response.json();
+            const botMessage = { 
+                text: result.text,
+                sender: 'bot'
+            };
+            setMessages(prev => [...prev, botMessage]);
         } catch (error) {
             const errorMessage = { 
                 text: "Sorry, an error occurred.",
@@ -27,10 +34,7 @@ const Chat = () => {
 
     useEffect(() => {
         if(!chatInitialized.current){
-            const initialMessage = {
-                text: "Hello! I am a bot designed to help with picking computer science or computer engineering classes. Let's get started with some questions. What is your year and your major?",
-                sender: 'bot'
-            };
+            const initialMessage = {};
             setMessages([initialMessage]);
             initializeChat();
             chatInitialized.current = true;
@@ -61,6 +65,7 @@ const Chat = () => {
         try {
             const response = await fetch('http://localhost:5001/chat', {
                 method: 'POST',
+                credentials: 'include',
                 headers: {
                     'Content-Type': 'application/json',
                 },

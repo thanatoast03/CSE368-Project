@@ -21,6 +21,7 @@ CORS(app, supports_credentials=True, origins=["http://localhost:5173"])
 mongo_client = MongoClient("mongo")
 db = mongo_client["CSE368"]
 user_collection = db['users']
+chat_collection = db['chat']
 
 model = None
 chat = None
@@ -92,11 +93,19 @@ def chatInitialize():
         global model
         global chat
         model = genai.GenerativeModel("gemini-1.5-flash")
+
+        user = auth(request)
+        texts = chat_collection.find({"username":user}, {"text":1})
+
+        history = ""
+        for text in texts:
+            history += text["text"].strip() + " "
+
+        print(history, file=sys.stderr)
+
         chat = model.start_chat(
             history=[
-                # {"role": "user", "parts": "<ignore for now, will be user messages later>"},
-                # {"role": "model", "parts": "Great to meet you. What would you like to know?"},
-                # TODO: fill this in with the chat history later on
+                {"role":"user", "parts": "This starts the chat history; please reference this if someone asks something related to prior knowledge: " + history}
             ]
         )
         response = chat.send_message(INIT_PROMPT)
@@ -123,6 +132,7 @@ def chatInitialize():
             response = chat.send_message(f"Here is the Computer Science BS program: {file_contents}")
             print(response.text, file=sys.stderr)
 
+        response = chat.send_message("If you have NOT received prior data, say 'Hello! What is your major, and what year are you in?'. Otherwise, say 'Welcome back! What can I do for you?' and use the PRIOR DATA TO INFORM YOUR RESPONSES.")
         if response.text:
             return jsonify({"text": response.text}), 200
         else:
@@ -137,7 +147,11 @@ def chat():
     username = data.get('sender')
     text = data.get('text')
 
+    user = auth(request)
+
     try:
+        if user:
+            chat_collection.insert_one({"username":user, "text":text}) # add history
         response = chat.send_message(text)
         if response.text:
             return jsonify({"text": response.text}), 200
@@ -147,6 +161,17 @@ def chat():
         raise
 
     # TODO: store user history
+
+def auth(request):
+    print(request.cookies, file=sys.stderr)
+    user_token = request.cookies.get('user_token')
+    if user_token:
+        user = user_collection.find_one({"authentication_token": hashlib.sha256(user_token.encode()).hexdigest()})
+
+        if user: # if user exists in database, return username? LOL
+            return user["username"]
+    
+    return None
 
 if __name__ == "__main__":
     app.run(host='0.0.0.0', port=5001, threaded=True) #debug=True)
