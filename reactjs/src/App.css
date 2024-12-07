@@ -1,0 +1,20 @@
+.navbarContainer {
+    background-color: #1a1d25;
+    width: 100%;
+    padding: 1% 1%;
+    text-align: left;
+}
+
+.navbarContainer button {
+    background-color: black; /* Button background color */
+    border: 2px solid white; /* White border */
+    color: white; /* White text color */
+    border-radius: 5px; /* Optional: Rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s ease; /* Optional: Smooth background transition on hover */
+}
+
+.navbarContainer button:hover {
+    background-color: white; /* Change background on hover */
+    color: black; /* Change text color on hover */
+}

@@ -1,0 +1,35 @@
+/* home.css */
+
+.homeContainer {
+    position: relative; /* Enable absolute positioning for child elements */
+    padding: 20px; /* Optional padding */
+    height: 100vh; /* Optional: set height to fill the viewport */
+    background-color: black;
+}
+
+.buttonContainer {
+    position: absolute; /* Position relative to the .homeContainer */
+    top: 20px; /* Adjust top position as needed */
+    right: 20px; /* Adjust right position as needed */
+    background-color: black;
+}
+
+.buttonContainer button {
+    margin-left: 10px; /* Space between buttons */
+    background-color: black; /* Button background color */
+    border: 2px solid white; /* White border */
+    color: white; /* White text color */
+    padding: 10px 15px; /* Optional: Add some padding for a better button size */
+    border-radius: 5px; /* Optional: Rounded corners */
+    cursor: pointer; /* Change cursor to pointer on hover */
+    transition: background-color 0.3s ease; /* Optional: Smooth background transition on hover */
+}
+
+.buttonContainer button:hover {
+    background-color: white; /* Change background on hover */
+    color: black; /* Change text color on hover */
+}
+
+.greeting h1{
+    color: white;
+}
