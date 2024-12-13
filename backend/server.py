@@ -131,6 +131,34 @@ def chatInitialize():
             file_contents = file.read()  # Read the entire file into a single string
             response = chat.send_message(f"Here is the Computer Science BS program: {file_contents}")
             print(response.text, file=sys.stderr)
+        with open('./classes/AICourses.txt', 'r') as file:
+            file_contents = file.read()  # Read the entire file into a single string
+            response = chat.send_message(f"Here is the AI pathways: {file_contents}")
+            print(response.text, file=sys.stderr)
+        with open('./classes/Courses.txt', 'r') as file:
+            file_contents = file.read()  # Read the entire file into a single string
+            response = chat.send_message(f"Here is the Core Classes: {file_contents}")
+            print(response.text, file=sys.stderr)
+        with open('./classes/ExperientialLearningandResearch.txt', 'r') as file:
+            file_contents = file.read()  # Read the entire file into a single string
+            response = chat.send_message(f"Here is the Experiential Learning and Research pathways: {file_contents}")
+            print(response.text, file=sys.stderr)
+        with open('./classes/HardwareSystemsandNetworkingCourses.txt', 'r') as file:
+            file_contents = file.read()  # Read the entire file into a single string
+            response = chat.send_message(f"Here is the Hardware Systems and Networking pathways: {file_contents}")
+            print(response.text, file=sys.stderr)
+        with open('./classes/Science.txt', 'r') as file:
+            file_contents = file.read()  # Read the entire file into a single string
+            response = chat.send_message(f"Here is the allowed Science Courses: {file_contents}")
+            print(response.text, file=sys.stderr)
+        with open('./classes/SoftwareCourses.txt', 'r') as file:
+            file_contents = file.read()  # Read the entire file into a single string
+            response = chat.send_message(f"Here is the Software Engineering pathways: {file_contents}")
+            print(response.text, file=sys.stderr)
+        with open('./classes/TheoryCourses.txt', 'r') as file:
+            file_contents = file.read()  # Read the entire file into a single string
+            response = chat.send_message(f"Here is the Theory pathways: {file_contents}")
+            print(response.text, file=sys.stderr)
 
         response = chat.send_message("If you have NOT received prior data, say 'Hello! What is your major, and what year are you in?'. Otherwise, say 'Welcome back! What can I do for you?' and use the PRIOR DATA TO INFORM YOUR RESPONSES.")
         if response.text:

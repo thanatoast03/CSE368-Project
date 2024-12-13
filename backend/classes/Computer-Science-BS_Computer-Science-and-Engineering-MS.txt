@@ -25,7 +25,7 @@ EAS 360LEC - STEM Communications Credits: 3
 MTH 141LR - College Calculus I Credits: 4
 MTH 142LR - College Calculus 2 Credits: 4
 MTH 309LR - Introductory Linear Algebra Credits: 4
- 
+
 Capstone Requirement (select one):
 CSE 442LR - Software Engineering Credits: 4
 CSE 443LR - Compilers Credits: 4
@@ -59,11 +59,11 @@ PHY 107LR - General Physics I Credits: 4
 PHY 108LR - General Physics II Credits: 4
 PHY 117LR - Honors Physics I Credits: 4
 PHY 118LR - Honors Physics II Credits: 4
-PHY 158LAB - General Physics II Lab Credits: 1 *
+PHY 158LAB - General Physics II Lab Credits: 1
 
 
 One additional Math or Science Course (3 credits minimum):
-Any 200-level or higher MTH or STA course (excludes MTH 411 , STA 301 , STA 301 , and MTH 495 -MTH 499 /STA 495-STA 499 ; or
+Any 200-level or higher MTH or STA course (excludes MTH 411, STA 301,STA 301, and MTH 495-MTH 499/STA 495-STA 499; or
 Any 200- level or higher (excluding 495-499) course in BIO, CHE, GLY or PHY; or
 Any course in an approved UB Curriculum Scientific Literacy sequence
 
@@ -92,7 +92,7 @@ CSE 574 - Intro to Machine Learning
 Software and Information Systems (SW) Core (3 credits)
 CSE 505 - Fundamentals of Programming Languages OR
 CSE 521 - Operating Systems (only one of these two courses can be used to satisfy the MS requirements in this area)
-	 
+
 CSE 526 - Blockchain Application Development
 CSE 535 - Information Retrieval
 CSE 562 - Database Systems
@@ -143,14 +143,13 @@ CSE 668 - Advanced Robotics
 CSE 672 - Bayesian Vision
 CSE 674 - Advanced Machine Learning
 CSE 675 - Stochastic Simulation and Inference
-CSE 678 - Face and Gesture Recognition
+CSE 678- Face and Gesture Recognition
 
 
 Software and Information Systems (SW) Area (3 credits)
 CSE 505 - Fundamentals of Programming Languages OR
 CSE 521 - Introduction to Operating Systems OR
 CSE 512 - Operating System Internals (only one of these two courses can be used to satisfy the MS requirements in this area)
-	 
 CSE 535 - Information Retrieval
 CSE 560 - Data Model and Query Languages
 CSE 562 - Database Systems
@@ -211,14 +210,12 @@ CSE 523 Quality Software Design
 CSE 525 Software Testing
 CSE 539 Software Engineering Tools and Building Blocks
 CSE 553 Software Development Project Management
-	 
-
 
 First Year Fall
 CSE 199SR - UB Seminar Credits: 3
 CSE 115LLR - Introduction to Computer Science I Credits: 4
 MTH 141LR - College Calculus I Credits: 4
-ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
 
 
 Total Credits: 14 or 15
@@ -228,7 +225,7 @@ First Year Spring
 CSE 116LLB - Introduction to Computer Science II Credits: 4
 CSE 191LR - Introduction to Discrete Structures Credits: 4
 MTH 142LR - College Calculus 2 Credits: 4
-ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
 
 
 Total Credits: 15 or 16
@@ -249,7 +246,7 @@ Second Year Spring
 CSE 341LR - Computer Organization Credits: 4
 CSE 331LR - Algorithms and Complexity Credits: 4
 Pathway Credits: 3
-Pathway Credits: 3
+Pathway Credits: 3
 
 
 Total Credits: 14
@@ -259,7 +256,7 @@ Third Year Fall
 EAS 360LEC - STEM Communications Credits: 3
 CSE Graduate Breadth Course Credits: 3
 MTH 309LR - Introductory Linear Algebra Credits: 4
- 
+
 MTH 411LR - Probability Theory Credits: 4 OR
 EAS 305LR - Applied Probability and Statistics Credits: 4 OR
 STA 301LEC - Intro to Probability Credits: 3 AND
@@ -271,7 +268,7 @@ Total Credits: 14
 
 Third Year Spring
 CSE Graduate Breadth Course Credits: 3
-CSE 300-600 level Technical Elective Credits: 3
+CSE 300-600 level Technical Elective Credits: 3
 Elective Credits: 3
 Scientific Literacy and Inquiry 2 Credits: 3
 Pathway Credits: 3
@@ -284,7 +281,7 @@ Fourth Year Fall
 CSE Graduate Breadth Course Credits: 3
 Math or Science Elective Credits: 3
 Elective Credits: 4
-Pathway Credits: 3 
+Pathway Credits: 3
 
 
 Total Credits: 14

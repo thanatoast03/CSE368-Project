@@ -13,7 +13,7 @@ Important Classes:
 
 
 Computer Science Core (53-54 credits)
-CSE 115LLR - Introduction to Computer Science I Credits: 4 *
+CSE 115LLR - Introduction to Computer Science I Credits: 4
 CSE 116LLB - Introduction to Computer Science II Credits: 4
 CSE 191LR - Introduction to Discrete Structures Credits: 4
 CSE 199SR - UB Seminar Credits: 3
@@ -26,7 +26,7 @@ EAS 360LEC - STEM Communications Credits: 3
 MTH 141LR - College Calculus I Credits: 4
 MTH 142LR - College Calculus 2 Credits: 4
 MTH 309LR - Introductory Linear Algebra Credits: 4
- 
+
 Capstone Requirement (select one):
 CSE 402LEC - Experiential Learning/Research Capstone Credits: 3
 CSE 442LR - Software Engineering Credits: 4
@@ -37,7 +37,7 @@ CSE 494SEM - Senior Capstone/Seminar Credits: 3
 One calculus-based probability or statistics course (4 credits)
 EAS 305LR - Applied Probability and Statistics Credits: 4
 MTH 411LR - Probability Theory Credits: 4
- 
+
 STA 301LEC - Intro to Probability Credits: 3 AND
 STA 301REC - Intro to Probability Credits: 1
 
@@ -127,24 +127,24 @@ PHY 158LAB - General Physics II Lab Credits: 1 **
 
 
 One Additional Math or Science course (3 credits):
-Any 200-level or higher MTH or STA course (excludes MTH 411 , STA 301 , STA 301 , and MTH 495 -MTH 499 /STA495-STA 499 ); or
+Any 200-level or higher MTH or STA course (excludes MTH 411, STA 301,STA 301, and MTH 495-MTH 499/STA495-STA 499); or
 Any 200- level or higher (excluding 495-499) course in BIO, CHE, GLY or PHY; or
 Any course in an approved UB Curriculum Scientific Literacy sequence
 
 
 MBA Core (30 Credits)
 MGA 603 - Financial Accounting for Managers Credits: 2
-MGB 610 - Organizational Behavior  Credits: 2
-MGF 611 - Financial Analysis for Managers  Credits: 2
-MGO 658 - Entrepreneurship Foundations  Credits: 2
-MGG 635 - Management Communication  Credits: 2
-MGM 615 - Marketing for Managers  Credits: 2
-MGQ 608 - Statistical Analysis for Managers  Credits: 3 
+MGB 610 - Organizational Behavior Credits: 2
+MGF 611 - Financial Analysis for Managers Credits: 2
+MGO 658 - Entrepreneurship Foundations Credits: 2
+MGG 635 - Management Communication Credits: 2
+MGM 615 - Marketing for Managers Credits: 2
+MGQ 608 - Statistical Analysis for Managers Credits: 3
 MGA 605 - Accounting for Management Decision-Making Credits: 2
-MGE 604 - Business Economics  Credits: 2
-MGO 620 - Operations Management  Credits: 2
-MGO 640 - Business Strategy  Credits: 2
-MGS 605 - IT for Managers  Credits: 2
+MGE 604 - Business Economics Credits: 2
+MGO 620 - Operations Management Credits: 2
+MGO 640 - Business Strategy Credits: 2
+MGS 605 - IT for Managers Credits: 2
 MGS 605 - Information Technology (IT) Managers Credits: 2
 MGG 601 - Corporate Social Responsibility/Sustainability Credits: 2
 MGX ### - Internship Credits: 3
@@ -161,7 +161,7 @@ Total Credits Required for Undergraduate Major: 82-90
 
 Additional Degree Requirements Include
 Additional coursework to fulfill UB Curriculum requirements
-Elective courses as needed to complete the 150 credit hour total
+Elective courses as needed to complete the 150 credit hour total
 
 
 Total Undergraduate Credits Required: 102
@@ -197,7 +197,7 @@ Second Year Fall
 CSE 220LLB - Systems Programming Credits: 4
 CSE 250LR - Data Structures Credits: 4
 Science Literacy 1 Credits: 3
-Science Literacy  Lab Credits: 1
+Science Literacy Lab Credits: 1
 Pathway Credits: 3
 
 
@@ -207,8 +207,8 @@ Total Credits: 15
 Second Year Spring
 CSE 341LR - Computer Organization Credits: 4
 CSE 331LR - Algorithms and Complexity Credits: 4
-Pathway Credits: 3
-Pathway Credits: 3
+Pathway Credits: 3
+Pathway Credits: 3
 Science Literacy 2 Credits: 3
 
 
@@ -229,9 +229,9 @@ Total Credits: 18
 Third Year Spring
 Topic Area 2 Credits: 3
 Topic Area 3 Credits: 3
-Specialization 1 Credits: 3
+Specialization 1 Credits:3
 Specialization 2 Credits: 3
-Elective Credits: 3 
+Elective Credits: 3
 
 
 Total Credits: 15
@@ -244,7 +244,7 @@ MGO 658LEC - Entrepreneurship Foundations Credits: 2
 MGA 603LEC - Financial Acctg for Managers Credits: 2
 MGF 611LEC - Fin Analysis for Managers Credits: 2
 MGQ 635LEC - Management Communications Credits: 2
-MGM 615LEC - Marketing for Managers Credits: 2
+MGM 615LEC - Marketing for Managers Credits: 2
 
 
 Total Credits: 14
@@ -256,10 +256,10 @@ MGO 620LEC - Operations Management Credits: 2
 MGS 605LEC - IT for Managers Credits: 2
 MGE 604LEC - Business Economics Credits: 2
 MGA 605LEC - Acctg for Mgmt Decision Making Credits: 2
- 
+
 CSE 442LR - Software Engineering Credits: 4 OR
 CSE 494SEM - Senior Capstone/Seminar Credits: 3
- 
+
 UBC 399MNT - UB Curriculum Capstone Credits: 1
 
 
@@ -267,7 +267,7 @@ Total Credits: 14 or 15
 
 
 Fourth Year Summer
-MGX ### - Internship Credits: 3
+MGX ### - Internship Credits: 3
 
 
 Total Credits: 3
@@ -277,7 +277,7 @@ Fifth Year Fall
 MBA Elective Credits: 3
 MBA Elective Credits: 3
 MBA Elective Credits: 3
-Elective Credits: 3 
+Elective Credits: 3
 
 
 Total Credits: 12

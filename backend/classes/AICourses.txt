@@ -1,0 +1,64 @@
+CSE 368LR - Introduction to Artificial Intelligence
+Artificial Intelligence appears in many practical situations: from problems such as returning relevant text to a vague question to robotic cars that need to safely navigate chaotic traffic. As a result, AI is frequently in the news for both important ethical questions and practical breakthroughs. This course is an introduction to AI for upper division students. The goal is to put these topics into a common perspective and to give you practical hands-on skill in solving AI problems through programming assignments.
+Credits: 4
+Typically Offered: Occasionally
+Requisites:
+Pre-Requisites: CSE 116. Computer Science, Computer Engineering, or Bioinformatics majors only. Co-Requisites: EAS 305 or MTH 411 or STA 301 and STA 301.
+
+CSE 428LEC - Introduction to Digital Image Processing
+This course is a one-semester course introducing digital image processing, e.g., image formation, 2D Fourier Transforms, image filtering, image enhancement, image compression etc. The course is designed to provide a basic understanding of image processing techniques followed up with hands-on experiences of processing and analyzing digital images.
+Credits: 3
+Requisites: Pre-Requisite: CSE 250 and CSE 305 and CSE 331 and MTH 309. Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 440LEC - Machine Learning and Society for Majors
+Machine Learning (ML) systems make decisions in all parts of our lives, starting from the mundane (e.g. Netflix recommending us movies/TV shows), to the somewhat more relevant (e.g. algorithms deciding which ads Google shows you) to the downright worrisome (e.g. algorithms deciding the risk of a person who is arrested committing a crime in the future). Whether we like it or not, ML systems are here to stay: the economic benefit of automation provided by ML systems means companies and even governments will continue to use algorithms to make decisions that shape our lives. While the benefits of using algorithms to make such decisions can be obvious, these algorithms sometimes have unintended/unforeseen harmful effects. This class will look into various ML systems in use in real life and go into depth of both the societal as well as technical issues. For students who are more technologically inclined, this course will open their eyes to societal implications of technology that such students might create in the future (and at the very least see why claiming ?But algorithms/math cannot be biased? is at best a cop-out). For students who are more interested in the societal implications of algorithms, this class will give them a better understanding of the technical/mathematical underpinnings of these algorithms (because if you do not understand, at some non-trivial level, how these algorithms work you cannot accurately judge the societal impacts of an algorithm). Students cannot take both CSE 440 (this course) and CSE 441 Machine Learning and Society for Non-Majors.
+Credits: 3
+Typically Offered: Spring
+Requisites: Pre-Requisite: (CSE 474 or CSE 368) or (CSE 331 and (CSE 474 or CSE 368) as a co-requisite); Co-Requisite: (CSE 474 or CSE 368) (if CSE 331 already completed); Students cannot take both CSE 440 and CSE 441.
+
+CSE 446LEC - Reinforcement Learning
+This course is intended for students interested in artificial intelligence. Reinforcement learning is an area of machine learning where an agent learns how to behave in an environment by performing actions and assessing the results. Reinforcement learning is how Google DeepMind created the AlphaGo system that beat a high-ranking Go player and how AlphaStar become the first artificially intelligent system to defeat a top professional player in StarCraft II. We will study the fundamentals and practical applications of reinforcement learning and will cover the latest methods used to create agents that can solve a variety of complex tasks, with applications ranging from gaming to finance to robotics.
+Credits: 3
+Requisites: Pre-Requisite: CSE 455 or CSE 473 or CSE 474. Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 455LEC - Introduction to Pattern Recognition
+Foundations of pattern recognition algorithms and machines, including statistical and structural methods. Data structures for pattern representation, feature discovery and selection, classification vs. description, parametric and non-parametric classification, supervised and unsupervised learning, use of contextual evidence, clustering, recognition with strings, and small, sample-size problems.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisites: CSE 474; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 463LEC - Knowledge Representation
+Introduces the field of knowledge representation and reasoning, the branch of artificial intelligence concerned with the techniques for representing and reasoning about the information to be used by an AI program. Topics typically include: the knowledge-representation hypothesis; propositional and first-order logic; model finding; resolution; syntactic proof theory; direct and refutation methods; relevance logic; truth maintenance and belief revision; commonsense reasoning; ontologies. Other topics that may be included as time permits are: modal logics; non-monotonic, defeasible, and default logics; logics of knowledge and belief; frames; description logics; vague and uncertain beliefs; logics of actions and time.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite:CSE 305; Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 467LEC - Computational Linguistics
+Introduces the field of computational linguistics, which is concerned with the understanding and use of language by computers. This course is the same as LIN 467, and course repeat rules will apply. Students should consult with their major department regarding any restrictions on their degree requirements.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: LIN 205 or CSE 250 ; Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 468LEC - Robotics Algorithms
+This course will study key algorithms relevant to programming intelligent robots with a focus on the following questions: How might one program a robot to estimate the state of the world based on multiple sources of information? How might a robot create plans or control policies for performing tasks? How might a robot learn a control policy directly from experience? The course will cover topics in estimation, control, and planning with applications to robotics including: reinforcement learning, linear optimal control, randomized motion planning, trajectory optimization, Kalman filtering, particle filtering, and selected topics in optimization.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: (CSE 250 or EAS 230 or EAS 240  or CSE 115 or EAS 999TRCP and (EE 305 or EAS 305 or MTH 411 or STA 301 and STA 301 ); Computer Science, Computer Engineering, Robotics Minor or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 469LEC - Introduction to Data Mining
+This course introduces fundamental techniques in data mining, i.e., the techniques that extract useful knowledge from a large amount of data. Topics include data preprocessing, exploratory data analysis, association rule mining, clustering, classification and anomaly detection. Students are expected to gain the skills to formulate data mining problems, solve the problems using data mining techniques and interpret the output.
+Credits: 3
+Typically Offered: Fall, Spring, Summer, Winter
+Requisites: Pre-Requisite:CSE 250 and MTH 411 or EAS 305 or STA 301 and STA 301  and MTH 309 and Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 473LEC - Introduction to Computer Vision and Image Processing
+Introduces those areas of artificial intelligence that relate to fundamental issues and techniques of computer vision and image processing. Emphasizes physical, mathematical, and image-processing aspects of vision. Topics include image formation, edge detection, segmentation, convolution, image-enhancement techniques, extraction of features (such as color, texture, and shape), object detection, 3-D vision, and computer system architectures and applications.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Prerequisites: CSE 250 AND (MTH 411 OR STA 301 and STA 301  OR EAS 305) AND MTH 309 AND Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 474LEC - Introduction to Machine Learning
+Involves teaching computer programs to improve their performance through guided training and unguided experience. Takes both symbolic and numerical approaches. Topics include concept learning, decision trees, neural nets, latent variable models, probabilistic inference, time series models, Bayesian learning, sampling methods, computational learning theory, support vector machines, and reinforcement learning.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: CSE 250 and (EAS 305 or EE 305 or CIE 308 or CE 305 or MTH 411 or STA 301LEC and STA 301REC ) and MTH 309. Computer Science, Computer Engineering, or Bioinformatics majors only.

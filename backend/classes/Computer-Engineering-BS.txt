@@ -18,13 +18,13 @@ CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5 OR
 CHE 101LR - General Chemistry Credits: 4 AND
 CHE 113LAB - General Chemistry Credits: 1 OR
 CHE 105LLR - Chemistry: Principles and Applications Credits: 5
- 
-CSE 115LLR - Introduction to Computer Science I Credits: 4 *
+
+CSE 115LLR - Introduction to Computer Science I Credits: 4
 CSE 116LLB - Introduction to Computer Science II Credits: 4
 CSE 191LR - Introduction to Discrete Structures Credits: 4
 CSE 199SR - UB Seminar Credits: 3
 CSE 220LLB - Systems Programming Credits: 4
-CSE 241LLB - Digital Systems Credits: 4 **
+CSE 241LLB - Digital Systems Credits: 4
 CSE 250LR - Data Structures Credits: 4
 CSE 321LR - Real -Time and Embedded Operating Systems Credits: 4
 CSE 341LR - Computer Organization Credits: 4
@@ -42,17 +42,15 @@ MTH 241LR - College Calculus 3 Credits: 4
 MTH 306LR - Introduction to Differential Equations Credits: 4
 MTH 309LR - Introductory Linear Algebra Credits: 4
 PHY 107LR - General Physics I Credits: 4
-PHY 108LR - General Physics II Credits: 4 ***
-PHY 158LAB - General Physics II Lab Credits: 1 ***
+PHY 108LR - General Physics II Credits: 4
+PHY 158LAB - General Physics II Lab Credits: 1
 
 
 One Calculus-Based Probability Or Statistics Course (4 credits)
 EAS 305LR - Applied Probability and Statistics Credits: 4
 MTH 411LR - Probability Theory Credits: 4
- 
-STA 301LEC - Intro to Probability Credits: 3 AND
-STA 301REC - Intro to Probability Credits: 1
 
+STA 301LEC - Intro to Probability Credits: 3 AND STA 301REC - Intro to Probability Credits: 1
 
 Computer Engineering Electives (12 credits minimum)
 CSE 496TUT - Internship/Practicum Credits: 1-5
@@ -62,17 +60,10 @@ CSE 499TUT - Independent Study Credits: 1-4
 
 
 Notes
-
-
 Total Credits Required for Major: 108-109
-
-
 Additional Degree Requirements Include:
 Additional coursework to fulfill UB Curriculum requirements
-
-
 Total Credits Required for Graduation: 125
-
 
 First Year Fall
 CSE 199SR - UB Seminar Credits: 3
@@ -80,22 +71,17 @@ CSE 115LLR - Introduction to Computer Science I Credits: 4
 MTH 141LR - College Calculus I Credits: 4
 CHE 107LR - General Chemistry for Engineers I Credits: 3.5
 CHE 127LAB - General Chemistry for Engineers Laboratory 1 Credits: 0.5
-ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
 
 
 Total Credits: 18 or 19
-
-
 First Year Spring
 CSE 116LLB - Introduction to Computer Science II Credits: 4
 PHY 107LR - General Physics I Credits: 4
 MTH 142LR - College Calculus 2 Credits: 4
-ENG 105LEC - Writing and Rhetoric Credits: 4 OR  Pathway Credits: 3
-
+ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
 
 Total Credits: 15 or 16
-
-
 Second Year Fall
 CSE 191LR - Introduction to Discrete Structures Credits: 4
 CSE 220LLB - Systems Programming Credits: 4
@@ -105,8 +91,6 @@ PHY 158LAB - General Physics II Lab Credits: 1
 
 
 Total Credits: 16
-
-
 Second Year Spring
 CSE 241LLB - Digital Systems Credits: 4
 CSE 250LR - Data Structures Credits: 4
@@ -115,8 +99,6 @@ MTH 306LR - Introduction to Differential Equations Credits: 4
 
 
 Total Credits: 16
-
-
 Third Year Fall
 CSE 321LR - Real -Time and Embedded Operating Systems Credits: 4
 CSE 341LR - Computer Organization Credits: 4
@@ -126,21 +108,15 @@ EAS 360LEC - STEM Communications Credits: 3 or Equivalent
 
 
 Total Credits: 16
-
-
 Third Year Spring
 CSE 379LLB - Introduction to Microprocessors Credits: 4
 MTH 309LR - Introductory Linear Algebra Credits: 4
- 
 EAS 305LR - Applied Probability and Statistics Credits: 4 OR
 MTH 411LR - Probability Theory Credits: 4 OR
 STA 301LEC - Intro to Probability Credits: 3
 Pathway Credits: 3
 
-
 Total Credits: 14 or 15
-
-
 Fourth Year Fall
 CSE 450LEC - Hardware/Software Integrated Systems Design I Credits: 3
 CSE 300 or 400-Level Tech. Elective Credits: 3 or 4
@@ -148,10 +124,7 @@ CSE 400-Level Tech. Elective Credits: 3
 Pathway Credits: 3
 Pathway Credits: 3
 
-
 Total Credits: 15 or 16
-
-
 Fourth Year Spring
 CSE 453LEC - Hardware/Software Integrated Systems Design 2 Credits: 3
 CSE 490LEC - Computer Architecture Credits: 3
@@ -159,8 +132,5 @@ CSE 400-Level Tech. Elective Credits: 3
 UBC 399MNT - UB Curriculum Capstone Credits: 1
 CSE 400-Level Tech. Elective Credits: 3
 
-
 Total Credits: 13
-
-
 Total Credits Required: 125

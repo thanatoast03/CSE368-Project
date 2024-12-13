@@ -1,0 +1,10 @@
+CSE 302LR - Intro to Experiential Learning/Research
+This course will be your introduction to working on a team-based development or research project. While there will be guidance given to help you understand the key points of software engineering or research methodologies, the exciting part of the course will be participation in a real project, with real research or product goals, that you will get to work on collectively with other students with a range of experience. This means that each project will have different goals, and use different technology and tools, this should not be seen as a class primarily about programming (although there will be plenty of it!) but rather a course in structured problem-solving, design, and teamwork.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Prerequisites: CSE 250, CSE 220, Bioinformatics, Computer Science or Computer Science Engineering majors only or permission of the department.
+
+CSE 303LEC - Intermediate Experiential Learning/Research
+This course will allow you to build on the skills you gained in CSE 302, add components of mentoring new project members, and participate at a more challenging level in the design and direction of the project. Now that you are familiar with reading documentation and participating in the structured development process, you will help create that documentation, provide estimates, create tests and design enhancements. You will also have the opportunity to see first-hand the longer-term consequences of choices you made in 302 and see how your code withstands the test of time, as new features are introduced.
+Credits: 3
+Requisites: Prerequisite: CSE 302 and Bioinformatics, computer science, or computer engineering major, or permission of the department.

@@ -1,0 +1,118 @@
+BIO 200LLB - Evolutionary Biology
+This course is designed as a general introduction to organismal biology: what happens at the level of the organism and above. Students will learn how evolution works, what organisms evolution has created, and how those organisms interact with the environment and each other. These three topics comprise the three sections of the course material: evolution, diversity, and ecology. Students will gain a general facility with the major topics of each of these fields to prepare them for future courses in the biology department and related fields. This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 5
+Typically Offered: Fall, Summer
+
+CHE 101LR - General Chemistry
+Introduces fundamental concepts of chemistry, and surveys important chemical elements and their compounds. The first semester course of a two-semester sequence of general chemistry designed for students in sciences and engineering. Topics include stoichiometry, reactions in solution, thermochemistry, atomic and molecular structure and bonding, gas laws, intermolecular forces, and phases of matter. Three hours of lecture plus one 50-minute recitation weekly. This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 4
+Typically Offered: Fall, Spring, Summer
+
+CHE 102LR - General Chemistry
+Introduces fundamental concepts of chemistry, and surveys important chemical elements and their compounds. The second semester course of a two-semester sequence of general chemistry designed for students in sciences and engineering. Topics include properties of solutions, kinetics, equilibria, thermodynamics, electrochemistry, transition metals and coordination chemistry, and nuclear chemistry. Three hours of lecture plus one 50-minute recitation weekly. This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 4
+Typically Offered: Fall, Spring, Summer
+Requisites: Pre-Requisite: CHE 101 or CHE 105 or CHE 107
+
+CHE 105LLR - Chemistry: Principles and Applications
+There is a fee associated with this course. Introduces the principles of chemistry and their applications. For students who are interested in majoring in a chemistry-related science. Three hours of lecture plus one four-hour recitation/laboratory period weekly.
+Credits: 5
+Typically Offered: Fall
+
+CHE 106LLR - Chemistry: Principles and Applications
+Introduces the principles of chemistry and their applications. For students who are interested in majoring in a chemistry-related science. Three hours of lecture plus one four-hour recitation/laboratory period weekly. There is a fee associated with this class.
+Credits: 5
+Typically Offered: Spring
+Requisites: Pre-Requisite: CHE 105
+
+CHE 107LR - General Chemistry for Engineers I
+Meets the general chemistry requirement for students wishing to receive an engineering degree. This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 3.5
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: Intended or Approved Engineering majors only
+
+CHE 108LR - General Chemistry for Engineers II
+Meets the general chemistry requirement for students wishing to receive an engineering degree in four years. Cannot be used for science distribution credit. This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 3.5
+Typically Offered: Spring
+Requisites: Pre-Requisite: CHE 101 or CHE 107 ; Intended or Approved Engineering majors only.
+
+CHE 113LAB - General Chemistry
+There is a fee associated with this class. Consists of the lab components of CHE 101. This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 1
+Typically Offered: Fall, Spring, Summer
+Requisites: Co-Requisite: CHE 101
+
+CHE 114LAB - General Chemistry
+There is a fee associated with this class. Consists of the lab components of CHE 102 . This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 1
+Typically Offered: Fall, Spring, Summer
+Requisites: Pre-Requisite: CHE 101 or CHE 107 or an AP test score of at least 4.00; Co-Requisite: CHE 102
+
+CHE 127LAB - General Chemistry for Engineers Laboratory 1
+Laboratory to accompany CHE 107, General Chemistry for Engineers 1. Experiments focus upon stoichiometry, reactions in aqueous solutions, thermochemistry, and properties of gases. This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 0.5
+Typically Offered: Fall, Spring
+Requisites: Co-Requisite: CHE 107
+
+CHE 128LAB - General Chemistry for Engineers Laboratory 2
+Laboratory to accompany CHE 108, General Chemistry for Engineers 2. Experiments focus upon kinetics, chemical equilibria, acid-base chemistry, electrochemistry and coordination chemistry. This course is a controlled enrollment (impacted) course. Students who have previously attempted the course and received a grade other than W may repeat the course in the summer or winter; or only in the fall or spring semester with a petition to the College of Arts and Sciences Deans’ Office.
+Credits: 0.5
+Typically Offered: Spring
+Requisites: Co-Requisite: CHE 108.
+
+GLY 101LEC - Natural Hazards
+This Scientific Literacy and Inquiry course explores the solid Earth and ways that ongoing, natural processes act to harm people and property. The course aims to put geological hazards in a broader context by examining the latest science at the micro (e.g., minerals), human (e.g., why tsunamis are such efficient and massive killers) and global (e.g., global effects of asteroid impacts or super volcano eruptions) scales. We will examine the history of scientific discovery and thought about natural hazards and global catastrophes on both human and geologic timescales. We will use case studies and debates to clarify science vs. pseudo-science, current controversies, and how natural (as well as some human-induced) hazards affect us in Western New York. Completing all three courses, GLY 101LEC, GLY 102 and GLY 105, would fulfill the Scientific Inquiry and Literacy Requirement as well as the Natural Sciences General Education requirement.
+Credits: 3
+Typically Offered: Fall, Spring
+
+GLY 102LEC - Climate Change
+This Scientific Literacy and Inquiry course offers an interdisciplinary discussion of both natural and human-induced global environmental and climate change at various scales (space and time). Provides a comprehensive description of how advances in the physical, biological, and geological sciences are being integrated to understand the interplay between the Earths components (atmosphere, hydrosphere, lithosphere, and biosphere). Topics include glaciers, basic oceanography and atmospheric science, natural hazards, natural resources, and Earth system cycles (such as weather, climate change, and atmospheric pollution). Completing all three courses, GLY 101, GLY 102LEC and GLY 105, would fulfill the Scientific Inquiry and Literacy Requirement as well as the Natural Sciences General Education requirement.
+Credits: 3
+Typically Offered: Fall, Spring
+
+GLY 103LEC - Geology for Engineers
+This course introduces engineers and others to the Earth system, by examining the latest science at the micro (e.g., minerals), human (e.g., why earthquakes are such efficient and massive killers) and global (e.g., water cycle) scales. We examine the use of scientific hypothesis testing and implications for understanding Earth materials and natural hazards. We use case studies to clarify science vs. pseudo-science, current controversies, and how natural (as well as some human-induced) hazards affect us.
+Credits: 3
+Typically Offered: Spring
+
+GLY 104LAB - Earth History & Fossils Lab
+Historical Geology provides the student with a comprehensive survey of the history of life and major events in the physical development of Earth. Most importantly, this class addresses how processes like plate tectonics and climate interact with life, forming an integrated system. The first half of the class focuses on theoretical concepts within both the biosphere and lithosphere (e.g., tectonics, earth sciences, evolution) and the second portion of the course will focus on a chronologic overview of major biological and physical events in different geologic periods. This lab course aims to enhance student Earth science college-level content knowledge, awareness, and analysis and critical thinking skills in a broad context by examining the temporal, regional and global (e.g., climate and ecological change through time) scales. This course is designed to develop skills in map-reading, cladistics/systematics, problem-solving, and to foster learning of the interactions between Earth processes, the environment, and the biosphere. We will apply the scientific method and foster student analysis of scientific data and models to evaluate leading concepts in both geological and paleontological science.
+Credits: 1
+Requisites: Co-Requisite: GLY 101 or GLY 102 or GLY 137.
+
+GLY 105LAB - Natural Hazards and Climate Change:Past, Present, Future
+This Scientific Literacy and Inquiry lab course aims to put Earth science in a broader context by examining the latest science at the micro, human (e.g., climate change impacts and mitigation) and global (e.g., global warming) scales. It is designed to develop skills in map-reading, problem-solving, and to foster hands-on learning of the interactions between Earth processes, the environment, and humans. We will apply the scientific method and foster student analysis of scientific data and models to evaluate leading concepts in Earth science. Finally, through case studies and debates, it will discuss science vs. pseudo-science, current controversies, and how earth science affects our everyday lives.
+Credits: 1
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisites OR Co-Requisites: GLY 101 or GLY 102 or GLY 103 or GLY 137.
+
+PHY 107LR - General Physics I
+A calculus-based introductory course primarily for chemistry, engineering, and physics majors. Covers kinematics, Newton’s laws, energy, momentum, rotational motion, and oscillations. This course satisfies 4 credits as required by different majors and also 4 credits (out of the mandated 7 credits total) of UB’s Science Literacy and Inquiry general education requirement sequence. Enrollment is not allowed in PHY107 if a student has current enrollment in PHY 101.
+Credits: 4
+Typically Offered: Fall, Spring, Summer, Winter
+Requisites: Pre- or co-Requisite: MTH 141 or MTH 136 and MTH 137. Enrollment is not allowed in PHY107 if a student has current enrollment in PHY 101.
+
+PHY 108LR - General Physics II
+A calculus based introductory course primarily for chemistry, engineering, and physics majors. Covers the electric field, Gauss’ law, electric potential, capacitance, DC circuits, RC circuits, magnetic field, Faraday’s law, inductance, LR circuits, AC circuits, and Maxwell’s equations. This course satisfies 4 credits as required by different majors and also 4 credits (out of the mandated 7 credits total) of UB’s Science Literacy and Inquiry general education requirement sequence.
+Credits: 4
+Typically Offered: Fall, Spring, Summer, Winter
+Requisites: Pre-Requisite: PHY 107 or PHY 117. Co-Requisite: MTH 141 or MTH 136 and MTH 137
+
+PHY 117LR - Honors Physics I
+PHY 117 is a calculus based Honors physics course, which covers similar topics as PHY 107, but in greater depth. This course is intended for potential physics majors, students in the honors college, and advanced students in other majors (with permission from the instructor). The class will be taught at a level comfortable for students who would receive a B or higher in a typical PHY 107 class. Because of the higher average GPA of students in this class, grading will be adjusted to reflect this quality, rather than following the conventional curves used for PHY 107. Introductory materials, such as review of trigonometry, vectors and calculus, in PHY 107 will not be covered. This leaves room to expose students to a wider range of interesting applications of Newtonian mechanics, and recent developments in topics such as Special Relativity and Cosmology. The class size is limited, to encourage interactive learning and communications between students and the instructor. This course satisfies 4 credits (out of the mandated 7 credits total) of UB’s Science Literacy and Inquiry General Education requirements. Enrollment is not allowed in PHY117 if a student has current enrollment in PHY 107.
+Credits: 4
+Typically Offered: Fall
+Requisites: Enrollment is not allowed in PHY117 if a student has current enrollment in PHY 107.
+
+PHY 118LR - Honors Physics II
+PHY 118 is a calculus based Honors physics course, which covers the same topics in electricity and magnetism as PHY 108, but in greater depth. Class size is limited. In general taken by students in the University Honors College, but other students may take it with permission of instructor. This course satisfies 4 credits as required by different majors and also 4 credits (out of the mandated 7 credits total) of UB’s Science Literacy and Inquiry sequence general education requirements. Enrollment is not allowed in PHY118 if a student has current enrollment in PHY 108.
+Credits: 4
+Typically Offered: Spring
+Requisites: Pre-Requisite: PHY 107 or PHY 117.
+
+PHY 158LAB - General Physics II Lab
+PHY-158 is an introductory Physics lab course. This course covers mechanics, kinematics, forces, vectors, electricity and magnetism. Experiments are used to demonstrate principles discussed in the lecture courses PHY 107 and PHY 108. PHY-158 satisfies the SLI General Education 1-credit laboratory requirement (out of the 7 credits total SLI Gen-Ed requirement).
+Credits: 1
+Typically Offered: Fall, Spring, Summer
+Requisites: Pre-Requisite: PHY 107 or PHY 117. and Co-Requisite: PHY 108 or PHY 118.

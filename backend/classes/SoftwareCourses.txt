@@ -1,0 +1,94 @@
+CSE 306LLB - Software Quality in Practice
+Software is seldom bug-free. Finding and fixing the source of unintended behavior in software can be challenging. This course covers tools and techniques for identifying and locating various types of quality defects in code (such as memory bugs, performance bugs, dependency bugs) and how to write code that lends itself to debugging.
+Credits: 4
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 220. Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 312LR - Introduction to Web Applications
+Covers the fundamentals of full-stack web development and deployment with a strong emphasis on server-side code and functionality. Students will develop a full-stack web application without the use of a pre-existing web server or web framework.Topics include HTTP, APIs, AJAX, databases, encryption, authentication, sockets, privacy, and security.
+Credits: 4
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 250. Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 321LR - Real -Time and Embedded Operating Systems
+Addresses some of the fundamental challenges in the design, implementation, and validation of these real-time and embedded systems. Topics include resource management, concurrency, secure coding practices, memory management, timeline design and analysis using metrics and schedulability tests, hardware interfacing, device driver programming, memory maps and boot kernels, firmware and ROM-resident system code, communications and networking, and debugging live systems. These concepts will be reinforced through C programming assignments using the RTLinux operating system.
+Credits: 4
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 220 Co-Requisite: CSE 250; Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 365LR - Introduction to Computer Security
+This is an undergraduate-level course intended for upper division students and will teach them introductory concepts of computer security. The main foci of this course will be network, web security, and application security. Part of the work will be dedicated to ethical aspects of security, and online privacy. The course will be heavily hands-on, as opposed to theoretical teaching.
+Credits: 4
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 250 and CSE 220 and Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 370LR - Applied Human Computer Interaction and Interface Design
+This is an undergraduate-level course intended for upper division students that will teach them introductory concepts of human computer interaction. The main topics covered in this course will be interface and experience design, interface development in a variety of environments, and evaluation of design via multiple methods including usability studies.
+Credits: 4
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 250. Students must complete a mandatory advisement session with their faculty advisor. Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 404LR - Software Project Management
+This course helps students develop the skills needed to oversee the development of software. The course covers tools used at every point in the software lifecycle and the decision-making process necessary to use them effectively. Topics will include requirements gathering, task decomposition, software design and architecture, test development and analysis, tool selection, and leadership. At the end of the term, students will be able to lead teams of developers to complete a successful software project from kick-off through post-delivery support.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: CSE 442 or CSE 370 and permission of department.
+
+CSE 409LEC - Advanced Blockchain Concepts
+The blockchain stack has five layers: decentralized application, smart contracts, protocol, operating system, and network layers. This course focuses on the blockchain protocol layer, the support provided by the layers below it, and the algorithms and techniques supporting its design and implementation. Topics include Bitcoin and Ethereum blockchain protocols, state and storage management using Merkle trees; consensus algorithms: proof of work, proof of authority, proof of stake, and practical byzantine fault tolerance methods; scalability issues and solutions: side channel, block size, sharding, network-layer solutions such as Tx and block relays; Universal digital identity and self-management of identity; Confidentiality, security, and privacy methods: zero-knowledge proofs, Zcash shielded transactions; Interoperability among protocols: baseline protocol; tokenization with fungible and non-fungible tokens; accessing external data sources using oracles; Ethereum standards and protocol improvement methods; private, public and permissioned blockchains. Upon completing the course, a student will be able to apply protocol level features in application development and will be able to contribute to blockchain protocol improvements. Dual listed with CSE 509.
+Credits: 3
+Requisites: Pre-Requisite: CSE 250; Computer Science or Computer Engineering majors only.
+
+CSE 411LEC - Introduction to Computer Systems Administration
+Teaches how to administer a network of computer workstations using an Operating System such as UNIX. Topics include managing user accounts, system backups, installing and configuring the operating system, setting up a computer network, shell programming, and computer security.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 421LEC - Introduction to Operating Systems
+Covers the principles and techniques in the design of operating systems. Describes concepts of operating systems in terms of functions, structure, and implementation, particularly emphasizing multiprogramming. Topics include process coordination, deadlocks, memory management, device management, file systems, scheduling policies for CPU, and network and distributed operating systems. Illustrates concepts with examples from existing operating systems.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: CSE 250 and Computer Science, Computer Engineering, or Bioinformatics
+
+CSE 426LEC - Blockchain Application Development
+This course is intended for students interested in learning about blockchain technology and in developing applications using the blockchain concepts. It begins with the definition of the blockchain as a trust layer over the internet for working with distributed resources with decentralized and disintermediated control. Topics include: Definition of a blockchain in terms of transactions, blocks and chain of blocks, data structures enabling the blockchain protocol and operational details involving algorithms and techniques such as peer-to-peer transactions, cryptography, digital signing and hashing, and consensus mechanisms. All of these concepts will be illustrated using Bitcoin and Ethereum blockchain. In the second part of the course, we introduce the concept of code execution the blockchain and the program module called smart contract and a language, Solidity, for writing smart contracts, compiling, deploying and testing the smart contracts on Ethereum blockchain. In the last part of the course, we introduce a decentralized application (Dapp) stack and explore problem solving using blockchain. This involves design and development of a Dapp stack with the computational logic represented by the smart contract code, a user interface and support for external data access through oracles, and decentralized file systems. Students will work on hands-on end-to-end Dapp projects using Ethereum blockchain and Truffle integrated development environment (IDE). The course will also discuss standards, best practices, and current challenges, such as scalability and interoperability, and the respective solutions. This course is dual-listed with CSE 526.
+Credits: 3
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 250. Students must complete a mandatory advisement session with their faculty advisor. Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 427LEC - Systems Security
+During this introductory course, students will learn fundamental security topics in a hands-on and applied fashion. Students will critically examine concepts such as basic networking, system administration, team dynamics, risk management and system security as well as identify and apply basic security hardening techniques. Students will gain practical experience using a virtualized lab environment where they will build, configure and secure a small corporate network. This course is the same as MGS 427 and course repeat rules will apply. Students should consult with their major department regarding any restrictions on their degree requirements.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 115 or EAS 230 or EAS 240 or EAS 999TRCP or  MGS 314; Computer Science or Computer Engineering Majors or School of Management Majors or Cybersecurity Minors only.
+
+CSE 435LEC - Information Retrieval
+This course will focus on text-based information retrieval (IR) techniques, more popularly known as search engines. Various IR models such as the Boolean model, vector space model, probabilistic model will be studied. Efficient indexing techniques for large document collections as well as specialized collections will be examined. Various query expansion techniques such as local context analysis will be introduced. Finally, the course will also discuss search engines for the web, and the use of link analysis to determine document/page relevance. Students will work on written assignments, as well as hands-on programming projects to gain expertise in this area.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: CSE 250, MTH 309; Approved Computer Science, Computer Engineering, Bioinformatics/CS Majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 460LEC - Data Models and Query Languages
+The course focuses on the issues of data models and query languages that are relevant for building present-day database applications, covering both well-established and cutting-edge frameworks. It adopts the user’s point of view, discussing primarily conceptual and foundational topics. Specific topics include: Entity-Relationship and relational database design, integrity constraints, graph and semi-structured data models, relational, graph and semi-structured query languages, DATALOG, recursion, path expressions, selected current topics. Several projects are given. The projects involve using current database technologies for building applications. This course is dual-listed with CSE 560.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 191 and CSE 250; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 462LEC - Database Systems
+Database Management Systems (DBMS) are an important piece of software widely used in various data intensive applications. No matter what data model or query language it adopts, there are principles and methodologies commonly found in virtually all DBMS, in order to support efficient and fault-tolerant data storage, query and management. In this course, we will examine the internals of a traditional Relational DataBase Management System (RDBMS) and discuss the common principles and methodologies that may be useful in many other database and data processing systems beyond RDBMS. The students will also gain practical experience of efficient data management through a semester-long project of implementing various components of a mini RDBMS.
+Credits: 3
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 250 and CSE 460; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 470LEC - Introduction to Parallel and Distributed Processing
+This course is intended for students interested in the efficient use of modern parallel systems ranging from multi-core and many-core processors to large-scale distributed memory clusters. The course puts equal emphasis on the theoretical foundations of parallel computing and practical aspects of different parallel programming models. It begins with a survey of common parallel architectures and types of parallelism, and then follows with an overview of formal approaches to assess scalability and efficiency of parallel algorithms and their implementations. In the second part, the course covers the most common and current parallel programming techniques and APIs, including for shared address space, many-core accelerators, distributed memory clusters and big data analytics platforms. Each component of the course involves solving practical computational and data driven problems, ranging from basic algorithms like sorting or searching, to graphs and numerical data analysis.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 220 and CSE 331  and Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 487LEC - Data Intensive Computing
+Data-intensive computing deals with storage models, application architectures, middleware, and programming models and tools for large-scale data analytics. In particular we study approaches that address challenges in managing and utilizing ultra-scale data and the methods for transforming voluminous data sets (big data) into discoveries and intelligence for human understanding and decision making. Topics include: storage requirements of big data, organization of big data repositories such as Google File System (GFS) semantic organization of data, data-intensive programming models such as MapReduce, fault-tolerance, privacy, security and performance, services-based cloud computing middleware, intelligence discovery methods, and scalable analytics and visualization. This course has three majors goals: (i) understand data-intensive computing, (ii) study, design and develop solutions using data-intensive computing models such as MapReduce and (iii) focus on methods for scalability using the cloud computing infrastructures such as Google App Engine (GAE), Amazon Elastic Compute Cloud (EC2), and Windows Azure. On completion of this course students will be able to analyze, design, and implement effective solutions for data-intensive applications with very large scale data sets.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: CSE 250 and Computer Science, Computer Engineering, or Bioinformatics majors only. Departmental senior standing recommended. Students must complete a mandatory advisement session with their faculty advisor.

@@ -13,7 +13,7 @@ Important Classes:
 
 
 Computer Science Core (53-54 credits)
-CSE 115LLR - Introduction to Computer Science I Credits: 4 *
+CSE 115LLR - Introduction to Computer Science I Credits: 4
 CSE 116LLB - Introduction to Computer Science II Credits: 4
 CSE 191LR - Introduction to Discrete Structures Credits: 4
 CSE 199SR - UB Seminar Credits: 3
@@ -26,7 +26,7 @@ EAS 360LEC - STEM Communications Credits: 3
 MTH 141LR - College Calculus I Credits: 4
 MTH 142LR - College Calculus 2 Credits: 4
 MTH 309LR - Introductory Linear Algebra Credits: 4
- 
+
 Capstone Requirement (select one):
 CSE 402LEC - Experiential Learning/Research Capstone Credits: 3
 CSE 442LR - Software Engineering Credits: 4
@@ -37,7 +37,7 @@ CSE 494SEM - Senior Capstone/Seminar Credits: 3
 One calculus-based probability or statistics course (4 credits)
 EAS 305LR - Applied Probability and Statistics Credits: 4
 MTH 411LR - Probability Theory Credits: 4
- 
+
 STA 301LEC - Intro to Probability Credits: 3 AND
 STA 301REC - Intro to Probability Credits: 1
 
@@ -126,11 +126,11 @@ PHY 107LR - General Physics I Credits: 4
 PHY 108LR - General Physics II Credits: 4
 PHY 117LR - Honors Physics I Credits: 4
 PHY 118LR - Honors Physics II Credits: 4
-PHY 158LAB - General Physics II Lab Credits: 1 ***
+PHY 158LAB - General Physics II Lab Credits: 1
 
 
 One Additional Math or Science course (3 credits):
-Any 200-level or higher MTH or STA course (excludes MTH 411 , STA 301 , STA 301 , and MTH 495 -MTH 499 / STA 495-STA 499 ); OR
+Any 200-level or higher MTH or STA course (excludes MTH 411, STA 301,STA 301, and MTH 495-MTH 499/ STA 495-STA 499); OR
 Any 200- level or higher (excluding 495-499) course in BIO, CHE, GLY or PHY; OR
 Any course in an approved UB Curriculum Scientific Literacy sequence
 
@@ -143,7 +143,7 @@ Total Credits Required for Major: 85-94
 
 Additional Degree Requirements Include:
 Additional coursework to fulfill UB Curriculum requirements
-Elective courses as needed to complete the 120 credit hour total
+Elective courses as needed to complete the 120 credit hour total
 
 
 Total Credits Required for Graduation: 120
@@ -172,7 +172,7 @@ Total Credits: 15 or 16
 Second Year Fall
 CSE 220LLB - Systems Programming Credits: 4
 CSE 250LR - Data Structures Credits: 4
-Scientific Literacy Inquiry 1 Credits: 3
+Scientific Literacy Inquiry 1 Credits: 3
 Pathway Credits: 3
 
 
@@ -184,8 +184,8 @@ CSE 341LR - Computer Organization Credits: 4
 CSE 331LR - Algorithms and Complexity Credits: 4
 Pathway Credits: 3
 Pathway Credits: 3
-Scientific Literacy and Inquiry 2 Credits: 3
-​Scientific Literacy and Inquiry Lab Credits: 1
+Scientific Literacy and Inquiry 2 Credits: 3
+Scientific Literacy and Inquiry Lab Credits: 1
 
 
 Total Credits: 18
@@ -217,14 +217,14 @@ Fourth Year Fall
 Specialization 1 Credits: 3
 Math or Science Elective Credits: 3
 Capstone Requirement Credits: 3-4
-Elective Credits: 3 
+Elective Credits: 3
 
 
 Total Credits: 13-14
 
 
 Fourth Year Spring
-Specialization 2 Credits: 4
+Specialization 2 Credits: 4
 Elective Credits: 3
 Elective Credits: 3
 Elective Credits: 3

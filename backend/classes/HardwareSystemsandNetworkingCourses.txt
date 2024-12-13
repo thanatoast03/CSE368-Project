@@ -1,0 +1,47 @@
+CSE 379LLB - Introduction to Microprocessors
+This is an introductory course in microprocessors and microprocessor based systems, specifically addressing microprocessor architecture, assembly language programming, and microprocessor system design and interfacing. In the laboratory you will get practical experience using the ARM microprocessor. Topics covered include: microprocessor concepts, instruction set architecture, assembly language and programming, stack and subroutines, memory design and interfacing, parallel and serial I/O, interrupt and exception handling, timing considerations, the ARM AMBA standard, and system design techniques. The ARM microprocessor is used to convey these topics
+Credits: 4
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 241 OR CSE 341 OR EE 178 and Computer Science, Computer Engineering, Electrical Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 450LEC - Hardware/Software Integrated Systems Design I
+This is the first course in a two-course computer engineering capstone design sequence where students get practical experience using the skills they have learned in previous courses. Students design a project that requires the integration of hardware and software into a complete system. Bringing skills learned from previous software and hardware oriented courses, students form multidisciplinary workgroups and are given tools, parts, goals, and constraints, all of which define the integrated design setting. These workgroups identify, formulate, and solve the hardware and software problems posted by their project, and defend their realization concepts at key intervals during the design process. Each group must present a final design review at the end of the semester. In Hardware/Software Integrated Hardware Design II, projects are built, tested, and delivered to the client. Along the way students must author technical documentation to accompany their project. This is a required course for CEN majors.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 379 and Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 453LEC - Hardware/Software Integrated Systems Design 2
+Software designs produced in the prerequisite CSE 450 Hardware/Software Integrated Systems Design I course are carried here to a complete hardware realization. Bringing skills learned from previous hardware and software-oriented courses, students form multidisciplinary workgroups and are given tools, parts, goals, and constraints, all of which define the integrated design setting. These workgroups identify, formulate, and solve the hardware and software problems posed by their project, and defend their realization concepts at key intervals during the project build-out. Projects are tested, and a report analyzing the level of satisfaction of design and performance specifications submitted. Each group prepares a ‘rollout’ presentation, which includes a demonstration of their project in operation. This is a required course for CEN majors.
+Credits: 3
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 450; Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 454LEC - Applied Computational Intelligence
+There are many areas of computer engineering that utilize computational intelligence. We will explore several computer engineering topics and a computational intelligence topic (or two) that applies to that situation and how to implement it. This course will provide exposure to several computer engineering applications, the determination of the problem in that application, identification of a computational intelligence technique for that problem, and then the application of that technique to the problem.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: (PHY 108 or PHY 118) and (CSE 115 or EAS 230 or EAS 240 ) and (EAS 305 or EE 305 or STA 301 or MTH 411). Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 486LEC - Distributed Systems
+Addresses some of the fundamental challenges in the design, implementation and deployment of large-scale distributed systems. Concepts covered include concurrency, synchronization, connection establishment, event handling, inter process communication, storage management, and service registration, discovery, and lookup. Also covers issues related to distributed objects such as life cycle management, mobility, security, naming, location, evolution, and autonomy. Analyses and implements possible solutions using objects, processes, services, components and frameworks. Offered irregularly.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: CSE 220 and CSE 250; Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 489LEC - Modern Networking Concepts
+Introduces basic elements of modern computer and telecommunications networks. Discusses a hybrid five-layer reference model resembling the popular TCP/IP model. In each layer, the course introduces the state-of-the-art hardware and software technologies. These include, for example, fiber-optic and wireless/mobile/cellular communications at the physical layer, to network security in the application layer. Offered once a year.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: CSE 250 and EAS 305 or MTH 411 or STA 301 and STA 301 and Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 490LEC - Computer Architecture
+Examines system architecture with 32- and 64-bit microprocessors. Topics include the design of high-performance computer systems, such as workstations and multiprocessor systems using recent advanced microprocessor. Considers the internal architecture of recent microprocessors, followed by vector processing, memory hierarchy design, and communication subsystems for I/O and interprocessor communication. This course is dual-listed with CSE 590.
+Credits: 3
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 341 or CSE 379 and Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 493LLB - Introduction to VLSI Electronics
+Introduces VLSI electronics. VLSI is the integration of a large number of logic gates on a single semiconductor chip. Applications of VLSI include memory, microprocessors, and signal processing. Topics include digital system design; VLSI systems; CMOS circuits; use of CAD tools in the layout of full-custom and semi-custom integrated circuits. Project required. Emphasizes designing a working chip and understanding various steps in design. Typical projects: ALU, games, controllers.
+Credits: 4
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 341 OR EE 310 and Computer Science, Computer Engineering, Electrical Engineering, or Bioinformatics majors only.

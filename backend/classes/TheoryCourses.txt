@@ -1,0 +1,52 @@
+CSE 396LR - Introduction to the Theory of Computation
+Covers machine models and formal specifications of the classes of computational problems they can solve. The central concepts are the Turing machine and the classes of decidable and computably enumerable languages. The Halting Problem and other natural problems are shown to be undecidable by Turing machines, implying that they are undecidable by high-level programming languages or any other known computational model. Finite automata, which are Turing machines without external memory, are shown to correspond to the class of regular languages. The course also covers regular expressions, time and space complexity of Turing machines, reducibility between problems, and NP-completeness.
+Credits: 4
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 191 or MTH 311 and CSE 250, and MTH 142 or MTH 139. Computer Science, Computer Engineering, or Bioinformatics majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 429LEC - Algorithms for Modern Computing Systems
+The objective of this course is to teach computational STEM students the fundamental concepts of design and analysis of algorithms for modern computing systems, including network-based fine-grained parallel computers, shared-memory computers, general multi-core and multiple processor systems, GPU-based systems, clusters, grids and clouds. The first part of the course will focus on the introduction of these computational models, as well as the traditional von Neumann architecture, and methods of analysis. The second part of the course will focus on fundamental computational paradigms and their implementation on a variety of modern computational systems. Much of the analysis will be considered in terms of running time, size of data, number of processors/cores, and interconnection networks, to name a few. Asymptotic analysis will be used as a measure of these performance metrics and design options.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 191, CSE 250  and MTH 142 or MTH 139; Computer Science, Computer Engineering, or Bioinformatics/CS Majors only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 430LEC - Topics in Theoretical Computer Science
+Introduces students to advanced topics in algorithms and theory of computation. Example topics include approximation algorithms, randomized algorithms and quantum computation. This course can be repeated as long as the topic being covered is different.
+Credits: 3
+Typically Offered: Spring
+Requisites: Pre-Requisite: CSE 331. Approved Computer Science, Computer Engineering, Bioinformatics/CS Majors only.
+
+CSE 431LEC - Algorithms Analysis and Design
+Introduces basic elements of the design and analysis of algorithms. Topics include asymptotic notations and analysis, divide and conquer, greedy algorithms, dynamic programming, fundamental graph algorithms, NP-completeness, approximation algorithms, and network flows. For each topic, beside in-depth coverage, we discuss one or more representative problems and their algorithms. In addition to the design and analysis of algorithms, students are expected to gain substantial discrete mathematics problem solving skills essential for computer scientists and engineers.
+Credits: 3
+Typically Offered: Fall, Spring
+Requisites: Pre-Requisite: CSE 331. Approved Computer Science, Computer Engineering, Bioinformatics/CS Majors Only. Students must complete a mandatory advisement session with their faculty advisor.
+
+CSE 432LEC - Randomized Algorithms Analysis and Design
+This course explores applications of probabilistic techniques to computer science. The main focus is how to leverage randomness in algorithms and how to perform probabilistic analysis of algorithms. Randomized algorithms are often faster and simpler than their deterministic counterparts, with the weaker assertion that correctness is not always guaranteed. Coverage includes analyzing algorithms via proofs and programming assignments to implement algorithms and sampling techniques. Topics include probabilistic method, balls and bins, random graphs, random walks, discrete time Markov chains, the Monte Carlo method, and examples of applications in many areas of computer science.
+Credits: 3
+Typically Offered: Spring
+Requisites: Pre-requisite: CSE 331 and (EAS 305 or EE 305 or MTH 411  or STA 301 and STA 301). Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 439LEC - Quantum Computation through Linear Algebra
+This course covers both introductory numerical linear algebra and quantum algorithms, which are phrased in linear algebraic terms. The course provides a mathematical foundation for subsequent study in Quantum Computing, and covers several quantum algorithms in depth, including Deutsch’s Algorithm, the Deutsch-Jozsa Algorithm, and Grover’s Algorithm. Students will also cover linear operators and matrix representations, operator norms, orthogonalization, the SVD and QR factorizations.
+Credits: 3
+Requisites: Pre-Requisite: CSE 250; Co-Requisite: MTH 309.
+
+CSE 445LEC - Coding Theory
+Error correcting codes (or just codes) are systematic ways of introducing redundancy into data so that the original information can be recovered even when the data is corrupted. Codes are used ubiquitously in communication systems and data storage. The study of error correcting codes (or coding theory) started with the seminal works of Shannon and Hamming in the late 1940s and has been an active cross-disciplinary research area since then. This course will discuss the theoretical aspects of codes and will focus mostly on the worst-case noise model pioneered by Hamming. However, we will discuss quite a few results on the stochastic noise model pioneered by Shannon. The course will roughly cover three parts: (i) combinatorial aspects of codes, i.e. the limit of what can and cannot be achieved with codes; (ii) computationally efficient algorithms for using codes; and (ii) application of codes in theoretical computer science. Major developments in coding theory since the 1990s will be emphasized. This course is dual listed with CSE 545.
+Credits: 3
+Typically Offered: Spring
+Requisites: Pre-Requisites: CSE 331. Computer Science, Computer Engineering, or Bioinformatics majors only.
+
+CSE 477LEC - Processing of Strings and Sequences
+This course is intended for students interested in learning efficient techniques for processing and analyzing large text collections, such as large-scale system logs, massive text corpora or databases of DNA sequences. The main focus is on classic algorithms and data structures for strings and sequences, including pattern matching, pairwise comparison, indexing and searching, as well as probabilistic methods, like fingerprinting and hashing. The theoretical component is complemented by practical considerations regarding efficient implementations of the discussed algorithms, and their applications in the real-world systems. The example applications include tools like UNIX grep, frameworks for plagiarism detection, as well as tools driving computational biology (e.g., BLAST, DNA assemblers, etc.). The course has also a programming component, in which students implement in their language of choice small but fully functional text processing applications.
+Credits: 3
+Typically Offered: Spring
+Requisites: Prerequisite: CSE 250
+
+CSE 491LEC - Introduction to the Theory of Computation
+This course covers standard machine models and formal specifications of the classes of computational problems they can solve. The central concepts are the Turing machine, the classes of decidable and computably enumerable languages, and subclasses of decidable problems ranked according to complexity. The Halting Problem and other natural problems are shown to be undecidable by Turing machines, implying that they are undecidable by high-level programming languages or any other known computational model. Finite automata, which are Turing machines without external memory, are shown to correspond to the class of regular languages. Major topics include time and space complexity of Turing machines, reducibility between problems, NP-completeness, and completeness for other classes. Models of probabilistic computation and quantum computation are also explored.
+Credits: 3
+Typically Offered: Fall
+Requisites: Pre-Requisite: CSE 331 and MTH 309. Computer Science, Computer Engineering, Electrical Engineering, or Bioinformatics majors only

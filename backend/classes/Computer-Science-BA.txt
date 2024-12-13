@@ -13,7 +13,7 @@ Important Classes:
 
 
 Computer Science Core (30 credits)
-CSE 115LLR - Introduction to Computer Science I Credits: 4 *
+CSE 115LLR - Introduction to Computer Science I Credits: 4
 CSE 116LLB - Introduction to Computer Science II Credits: 4
 CSE 191LR - Introduction to Discrete Structures Credits: 4
 CSE 199SR - UB Seminar Credits: 3 (OR any UBS 199)
@@ -26,9 +26,8 @@ EAS 360LEC - STEM Communications Credits: 3
 One sequence from the following (8 credits): 
 MTH 121LR - Survey of Calculus and Its Applications I Credits: 4 AND
 MTH 122LR - Survey of Calculus and Its Applications II Credits: 4
- 
-MTH 131LR - Mathematical Analysis for Management Credits: 4 AND 100-level technical elective 
- 
+
+MTH 131LR - Mathematical Analysis for Management Credits: 4 AND 100-level technical elective
 MTH 141LR - College Calculus I Credits: 4 AND
 MTH 142LR - College Calculus 2 Credits: 4
 
@@ -36,10 +35,10 @@ MTH 142LR - College Calculus 2 Credits: 4
 One probability/statistics course (3-4 credits):
 STA 119LEC - Statistical Methods Credits: 3 AND
 STA 119REC - Statistical Methods Credits: 1
- 
+
 STA 301LEC - Intro to Probability Credits: 3 AND
 STA 301REC - Intro to Probability Credits: 1
- 
+
 MGQ 301LR - Statistical Decisions in Management Credits: 3
 MTH 411LR - Probability Theory Credits: 4
 EAS 305LR - Applied Probability and Statistics Credits: 4
@@ -49,24 +48,20 @@ Other probability/statistics courses may be subject to approval upon request
 
 Six CSE 300/400 Level Courses (21-24 credits)
 
-
 One 300/400 LAS course (3 credits)
-
 
 Five External Concentration Electives (15 credits)
 
-
 Total Credits Required for Major: 80-84
-
 
 First Year Fall
 UB Seminar Credits: 3
 CSE 115LLR - Introduction to Computer Science I Credits: 4
- 
+
 MTH 121LR - Survey of Calculus and Its Applications I Credits: 4 OR
 MTH 131LR - Mathematical Analysis for Management Credits: 4 OR
 MTH 141LR - College Calculus I Credits: 4
- 
+
 ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
 
 
@@ -76,11 +71,11 @@ Total Credits: 14 or 15
 First Year Spring
 CSE 116LLB - Introduction to Computer Science II Credits: 4
 CSE 191LR - Introduction to Discrete Structures Credits: 4
- 
+
 MTH 122LR - Survey of Calculus and Its Applications II Credits: 4 OR
 MTH 142LR - College Calculus 2 Credits: 4
 OR 100+ Level Technical Elective: If MTH 131 was taken
- 
+
 ENG 105LEC - Writing and Rhetoric Credits: 4 OR Pathway Credits: 3
 
 
@@ -90,7 +85,7 @@ Total Credits: 15 or 16
 Second Year Fall
 CSE 220LLB - Systems Programming Credits: 4
 CSE 250LR - Data Structures Credits: 4
-Scientific Literacy and Inquiry 1 Credits: 3
+Scientific Literacy and Inquiry 1 Credits: 3
 Scientific Literacy and Inquiry Lab Credits: 1
 Pathway Credits: 3
 
@@ -103,7 +98,7 @@ CSE 341LR - Computer Organization Credits: 4
 Probability/Stats Elective Credits: 3
 Pathway Credits: 3
 Pathway Credits: 3
-Scientific Literacy and Inquiry 2 Credits: 3
+Scientific Literacy and Inquiry 2 Credits: 3
 
 
 Total Credits: 16
@@ -124,7 +119,7 @@ Third Year Spring
 Pathway Credits: 3
 CSE 300 OR 400 Level Elective Credits: 3
 CSE 300 OR 400 Level Elective Credits: 3
-External Concentration 2 (200-Level above) Credits: 4 
+External Concentration 2 (200-Level above) Credits: 4
 
 
 Total Credits: 13
