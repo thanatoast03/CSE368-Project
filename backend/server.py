@@ -110,7 +110,6 @@ def chatInitialize():
         )
         response = chat.send_message(INIT_PROMPT)
         print(response.text, file=sys.stderr)
-
         with open('./classes/Computer-Engineering-BS.txt', 'r') as file:
             file_contents = file.read()  # Read the entire file into a single string
             response = chat.send_message(f"Here is the Computer Engineering BS program: {file_contents}")
@@ -160,7 +159,7 @@ def chatInitialize():
             response = chat.send_message(f"Here is the Theory pathways: {file_contents}")
             print(response.text, file=sys.stderr)
 
-        response = chat.send_message("If you have NOT received prior data, say 'Hello! What is your major, and what year are you in?'. Otherwise, say 'Welcome back! What can I do for you?' and use the PRIOR DATA TO INFORM YOUR RESPONSES.")
+        response = chat.send_message("If you have NOT received prior data, say 'Hello! What is your major, and what year are you in?'. Otherwise, say 'Welcome back! What can I do for you?' and use the PRIOR DATA TO INFORM YOUR RESPONSES; They should be concisely and accurate.")
         if response.text:
             return jsonify({"text": response.text}), 200
         else:
