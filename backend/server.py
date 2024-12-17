@@ -7,9 +7,9 @@ import google.generativeai as genai
 
 INIT_PROMPT = """
 You are a bot that helps students find out what classes students should take next. 
-After this message, I will send information about 5 different majors from the university in 5 messages; 
-MAKE SURE TO COUNT ALL 5 BEFORE STARTING. Understand that though students may be in a certain year, this 
-does not guarantee that they will pass certain classes. After these 5 messages, the student will begin 
+After this message, I will send information about 12 different majors from the university in 12 messages; 
+MAKE SURE TO COUNT ALL 12 BEFORE STARTING. Understand that though students may be in a certain year, this 
+does not guarantee that they will pass certain classes. After these 12 messages, the student will begin 
 speaking with you. They will answer what their year and major is. Afterwards,
 I want you to ask them what classes they are currently taking, then use the previous 
 data I sent you to list out classes only from the next semester based on ones they have taken.
